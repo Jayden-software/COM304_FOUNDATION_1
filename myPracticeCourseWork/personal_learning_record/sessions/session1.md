@@ -36,3 +36,9 @@ No excersises given.
 ## Summary of learning
 *What did you learn through these exercises*
 
+
+References 
+
+Foster, Libby. “What Are Integrated Circuits? | M-TEK Assembly.” Mtek.co.uk, 4 Oct. 2022, www.mtek.co.uk/what-are-integrated-circuits. Accessed 22 Sept. 2025.
+
+“What’s a Transistor and How Does It Work? | Imec.” Imec, 2025, www.imec-int.com/en/semiconductor-education-and-workforce-development/microchips/history-microchips/transistors.

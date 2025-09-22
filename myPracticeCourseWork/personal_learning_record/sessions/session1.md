@@ -11,7 +11,7 @@
 
  -Thoeretical foundation of hardware/components (CPU, Memnory, Peripherals)
 
- -Different types of computers (Analogue, Digital, Electronic)
+ -Different types of computers (Analogue, Digital,)
  
  -Transistors and integrational circuits
 
@@ -31,16 +31,14 @@ Linking back to hardware - the newer the generation of the CPU that a system has
 
 -Integrational circuits is a tiny electronic device that merges numerous of different components such as resistors, transistors, and capacitors within a semiconductor chip. Over 5 decades IC's have achieved much greater speeds, greatere capacity whilst still maintaining a small size, modern day IC's have become very complex and are now able to accomodate billions of transistors, overseen at, (Foster).
 
--
-
 -Both of these hardwares intertwine with one another and fall under the topic of Theoretical foundation of components.
 
--
+-Different types of computers (Analogue and Digital). Analogue uses electircal circuits of which fall under physical mechanics to modlel and create a solution for the mathematical problem whereas Digital computers uses discrete binary code such as 1 and 0s. For data collection, analogue uses non=discrete signals that portray real world occurence however digital uses a much more efficient and accurate way by using binary code. Overseen at, (“Analog vs Digital Computers: Key Differences Explained with Examples | Educatly”).
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
-No excersises given.
+
 
 
 ## Summary of learning
@@ -52,3 +50,9 @@ References
 Foster, Libby. “What Are Integrated Circuits? | M-TEK Assembly.” Mtek.co.uk, 4 Oct. 2022, www.mtek.co.uk/what-are-integrated-circuits. Accessed 22 Sept. 2025.
 
 “What’s a Transistor and How Does It Work? | Imec.” Imec, 2025, www.imec-int.com/en/semiconductor-education-and-workforce-development/microchips/history-microchips/transistors.
+
+Awati, Rahul. “What Is Binary?” WhatIs.com, May 2022, www.techtarget.com/whatis/definition/binary.
+
+Icodewithben. “GPUs and Multicore CPUs and Parallel and Concurrent Processing.” Medium, Medium, Feb. 2024, medium.com/@icodewithben/gpus-and-multicore-cpus-and-parallel-and-concurrent-processing-de280581050c. 
+
+“Analog vs Digital Computers: Key Differences Explained with Examples | Educatly.” Educatly, 2025, www.educatly.com/blog/768/analog-vs-digital-computers-key-differences. 

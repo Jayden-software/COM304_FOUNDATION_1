@@ -4,7 +4,8 @@
 
 ## Topics covered
 *What topics were covered in this session*
-
+ -intorduction of Github,  
+ -notable historic figures including alen turning
 
 
 ## Personal Notes and research following this session

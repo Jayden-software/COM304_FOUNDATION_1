@@ -21,11 +21,21 @@
 
 (Personal notations)
 -Transistors are the preconditioned factor that sustains integrated circuits and microchips, accredited at (“What’s a Transistor and How Does It Work? | Imec”), 
-in short they are electornic switches.
+in short they are electornic switches. Therefore, it results in the transistor being amplifilers in which are then able to write 1 and 0s. Now 1 and 0s is the key funademental to all of and everything related to digital information, it processes everything that a computer demonstrates within two state's on (1) off (0) within the central processessing unit (CPU) and RAM system. overseen at, (Awati). In short, it conveys all the data within a certain machine through a readable format. 
+
+Linking back to hardware - the newer the generation of the CPU that a system has will have more advanced transistors leading to advantages such as 
+-Better power efficiency (lower wattage)
+-Improvements upon the speed of the CPU specifically clockspeed (Ghz)
+-Increaased transistor density allowing for more profound complex calculations 
+-Greater parrallel processing (breaking down computational problems into smaller parts whilst simulatenously executing them), accredited at, (Icodewithben).
 
 -Integrational circuits is a tiny electronic device that merges numerous of different components such as resistors, transistors, and capacitors within a semiconductor chip. Over 5 decades IC's have achieved much greater speeds, greatere capacity whilst still maintaining a small size, modern day IC's have become very complex and are now able to accomodate billions of transistors, overseen at, (Foster).
 
+-
+
 -Both of these hardwares intertwine with one another and fall under the topic of Theoretical foundation of components.
+
+-
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*

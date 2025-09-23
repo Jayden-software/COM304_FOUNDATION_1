@@ -16,6 +16,7 @@
  -Transistors and integrational circuits
 
 
+
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
@@ -34,6 +35,8 @@ Linking back to hardware - the newer the generation of the CPU that a system has
 -Both of these hardwares intertwine with one another and fall under the topic of Theoretical foundation of components.
 
 -Different types of computers (Analogue and Digital). Analogue uses electircal circuits of which fall under physical mechanics to modlel and create a solution for the mathematical problem whereas Digital computers uses discrete binary code such as 1 and 0s. For data collection, analogue uses non=discrete signals that portray real world occurence however digital uses a much more efficient and accurate way by using binary code. Overseen at, (“Analog vs Digital Computers: Key Differences Explained with Examples | Educatly”).
+
+
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*

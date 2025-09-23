@@ -22,4 +22,5 @@ My first ever phone was an andriod specifically a lenovo.
 
 This is where i built and developed an interest within technology of wondering how it wors from the theorys to practical's. I also had a Macbook but ran into numerous of issues within my experience. This issue was having a corrupt MascOS, leading to me learning how to go into the utility disk and this then led me to encounter my first troubleshoot, at first I was confused however i soon did a Google search and learnt how to diagmoise and troubleshoot the issue and this then resolved the corrupted file by reinstalling MacOS in a new disk drive. Furthermore, this issue made me defer from using MacOS any longer and switched back to Windows and ever since I have not ran into any issues. 
 
+Moreover, within this module i would like to specifically learn how processors actually work and what is inside of them including how RAM works. Furthermore, developing and broadening my general knowledge of computaional processes. In addition, I would like to know how data is transferred through computers and learning the basic fundamentals of any programming language.
 TBD

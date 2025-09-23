@@ -37,7 +37,7 @@ Linking back to hardware - the newer the generation of the CPU that a system has
 
 -Different types of computers (Analogue and Digital). Analogue uses electircal circuits of which fall under physical mechanics to modlel and create a solution for the mathematical problem whereas Digital computers uses discrete binary code such as 1 and 0s. For data collection, analogue uses non=discrete signals that portray real world occurence however digital uses a much more efficient and accurate way by using binary code. Overseen at, (“Analog vs Digital Computers: Key Differences Explained with Examples | Educatly”).
 
-The cloud, in short this is a hidden netwrok that restores, retains and process data from a laptop, phone or home pc. Moreover, the cloud is usually in a remote location in which can be anywhere within the world, all of this is done via a cloud provider and an internmet connection. 
+The Cloud, in short this is a hidden network that restores, retains and processes data from a laptop, phone or home pc. Moreover, the cloud is usually in a remote location in which can be anywhere within the world, all of this is done via a cloud provider and an internmet connection. It allows for someones files to be reached instantly just from there own laptop. Noty onlyh is it useful for personal use however it is great for a business use as all of the files that a business may use will all be in the cloud inreasing productivity and efficiency.
 
 
 ## Exercises and results

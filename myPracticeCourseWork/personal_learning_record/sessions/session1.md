@@ -15,6 +15,7 @@
  
  -Transistors and integrational circuits
 
+ -Converged Virtualised Services (Cloud)
 
 
 ## Personal Notes and research following this session
@@ -36,6 +37,7 @@ Linking back to hardware - the newer the generation of the CPU that a system has
 
 -Different types of computers (Analogue and Digital). Analogue uses electircal circuits of which fall under physical mechanics to modlel and create a solution for the mathematical problem whereas Digital computers uses discrete binary code such as 1 and 0s. For data collection, analogue uses non=discrete signals that portray real world occurence however digital uses a much more efficient and accurate way by using binary code. Overseen at, (“Analog vs Digital Computers: Key Differences Explained with Examples | Educatly”).
 
+The cloud, in short this is a hidden netwrok that restores, retains and process data from a laptop, phone or home pc. Moreover, the cloud is usually in a remote location in which can be anywhere within the world, all of this is done via a cloud provider and an internmet connection. 
 
 
 ## Exercises and results

@@ -43,12 +43,13 @@ The Cloud, in short this is a hidden network that restores, retains and processe
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
-
+During the first session, the task given was to get used to github and create a github account.
 
 
 ## Summary of learning
 *What did you learn through these exercises*
 
+Through this exercise I learnt how to fork which creating your own resporitory, how to edit coded files, and the overall fundamental of how github works. 
 
 References 
 

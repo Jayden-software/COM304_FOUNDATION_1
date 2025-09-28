@@ -49,7 +49,7 @@ During the first session, the task given was to get used to github and create a 
 ## Summary of learning
 *What did you learn through these exercises*
 
-Through this exercise I learnt how to fork which creating your own resporitory, how to edit coded files, and the overall fundamental of how github works. 
+Through this exercise I learnt how to fork in which creates your own resporitory, how to edit coded files, and the overall fundamental of how github works. 
 
 References 
 

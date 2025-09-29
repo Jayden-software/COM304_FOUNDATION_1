@@ -23,6 +23,7 @@ Zip files is where you compress allocated files into a single one in which impro
 
 The difference between a server and a personal computer is significant. A personal computer means what is in the name in therefore it is for personal use only, however, a server is used to designate and supply certain resources to multiple other different computers. It runs 24/7 and is usually running at a tempature between 30-40 degrees. 
 
+Cache, this is a memory of which stores data that is used commonly so it could therefore be restored and retrived fatser, in which improves 'the overall performance and efficiency of a system by reducing the need to access slower, original data sources'. Overseen at, (“Cache Memory: What Is Cache Memory | Lenovo UK”).
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -40,4 +41,7 @@ Through the exercise I learnt how different computers operate and what they are 
 
 Rwferences
 
+“Cache Memory: What Is Cache Memory | Lenovo UK.” Www.lenovo.com, www.lenovo.com/gb/en/glossary/what-is-cache-memory/?orgRef=https%253A%252F%252Fwww.google.com%252F.
+
 Intel. “Computer and Laptop RAM.” Intel, www.intel.com/content/www/us/en/tech-tips-and-tricks/computer-ram.html. 
+

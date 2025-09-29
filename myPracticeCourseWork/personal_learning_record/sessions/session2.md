@@ -7,8 +7,11 @@
 
 Topics covered within this session includes
 -Computer hardwares, RAM and ROM, CPU's, PSU, GPU, SSD, HDD
+
 -Cache
+
 -Zip files
+
 -Server computer, personal computer
 
 ## Personal Notes and research following this session

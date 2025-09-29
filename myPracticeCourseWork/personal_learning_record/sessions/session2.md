@@ -14,6 +14,7 @@
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
+<img width="484" height="643" alt="image" src="https://github.com/user-attachments/assets/adea4759-3b4d-4861-9b8c-0bddc0aa6c9f" />
 
 
 

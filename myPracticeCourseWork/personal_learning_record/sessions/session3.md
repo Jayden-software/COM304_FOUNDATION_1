@@ -22,3 +22,7 @@ The exercise was to enable a successul download of linux os installed onto the r
 *What did you learn through these exercises*
 
 Through the exercise i learnt how to install the overall OS of linux onto a raspberry pi and how to connect it to the school WIFI. In addition, I leant how to use basic commands on the raspberry pi.
+
+References
+
+“What Is a Raspberry Pi?” Opensource.com, 2012, opensource.com/resources/raspberry-pi. 

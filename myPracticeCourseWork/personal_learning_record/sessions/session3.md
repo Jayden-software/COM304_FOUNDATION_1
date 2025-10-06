@@ -6,13 +6,25 @@
 *What topics were covered in this session*
 
 During this session we assembled and connected a Raspberry Pi to our personal computers enabling a download for an OS, this then enabled the  ability to connect a HDMI from the Pi to the monitor screen.
-
+Memory Bus
+Binary and Boolean
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
 What is a rapberry pi, it is a small sized factor computer in which run specifically on the operating system of linux. Moreover, it is dedictaed for educational purposes, web seraching, and an overall essence of pratical applications, accredited at, (“What Is a Raspberry Pi?”) 
 
+The memroy bus connect all 3 of the I/O, Memory (RAM), and CPU. 
+
+An 8 bit binary equates to 256. A Hexadecimal digit will go from 0 to f, f represents (15)
+
+8 Bit binary = 1,2,4,8,16,32,64,128.
+
+FF is all 1, 00 is all 0.
+
+0 is a poistive and 1 is a negative, tooscompliment. Goes from 252 to -128 + 127. 
+
+Mthod works as decimal to binary, invert, compliment by adding (1) and then it will turn into a negtaive decimal.
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

@@ -36,12 +36,12 @@ AND Gate, example - 0,0 = 0, 0,1 =0.
 
 The exercise was to enable a successul download of linux os installed onto the rapsberry pi from a personal laptop, then to dedicated a hdmi passing the the machine into the main PC monitor. In addition an extra task was to successfully connect WIFI to the machine. All results were successfully completed.
 
+Other exercises demonstrated was playing the HEX game and Binary game. Results included acheiving level 5 and 19000 points. 
 ## Summary of learning
 *What did you learn through these exercises*
 
-Through the exercise i learnt how to install the overall OS of linux onto a raspberry pi and how to connect it to the school WIFI. In addition, I leant how to use basic commands on the raspberry pi.
+Through the exercise i learnt how to install the overall OS of linux onto a raspberry pi and how to connect it to the school WIFI. In addition, I leant how to use basic commands on the raspberry pi. From the Binary activity I learned how to read binary code and calculate it from a decimal back to a Binary code.
 
-Other exercises demonstrated was playing the HEX game and Binary game. Results included acheiving level 5 and 19000 points. 
 References
 
 “What Is a Raspberry Pi?” Opensource.com, 2012, opensource.com/resources/raspberry-pi. 

@@ -14,7 +14,7 @@ Binary and Boolean
 
 What is a rapberry pi, it is a small sized factor computer in which run specifically on the operating system of linux. Moreover, it is dedictaed for educational purposes, web seraching, and an overall essence of pratical applications, accredited at, (“What Is a Raspberry Pi?”) 
 
-The memroy bus connect all 3 of the I/O, Memory (RAM), and CPU. 
+The memory bus connect all 3 of the I/O, Memory (RAM), and CPU. 
 
 An 8 bit binary equates to 256. A Hexadecimal digit will go from 0 to f, f represents (15)
 
@@ -22,9 +22,15 @@ An 8 bit binary equates to 256. A Hexadecimal digit will go from 0 to f, f repre
 
 FF is all 1, 00 is all 0.
 
-0 is a poistive and 1 is a negative, tooscompliment. Goes from 252 to -128 + 127. 
+0 is a poistive and 1 is a negative, tom's compliment. Goes from 252 to -128 + 127. Always add 1 to the equation.
 
-Mthod works as decimal to binary, invert, compliment by adding (1) and then it will turn into a negtaive decimal.
+If you wire gates correctly you can create an adder. 
+
+Method works as decimal to binary, invert, compliment by adding (1) and then it will turn into a negtaive decimal.
+
+Boolean logic and transistors logic, boolean logic is algebra created to represent Ture and False of AND, OR and also Note gates. Transistor logic uses transistors to provide the same Gates in which creates would create circuits.
+
+AND Gate, example - 0,0 = 0, 0,1 =0. 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -35,6 +41,7 @@ The exercise was to enable a successul download of linux os installed onto the r
 
 Through the exercise i learnt how to install the overall OS of linux onto a raspberry pi and how to connect it to the school WIFI. In addition, I leant how to use basic commands on the raspberry pi.
 
+Other exercises demonstrated was playing the HEX game and Binary game. Results included acheiving level 5 and 19000 points. 
 References
 
 “What Is a Raspberry Pi?” Opensource.com, 2012, opensource.com/resources/raspberry-pi. 

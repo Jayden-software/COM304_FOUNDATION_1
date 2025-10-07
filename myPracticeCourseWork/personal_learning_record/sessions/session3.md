@@ -31,6 +31,10 @@ Method works as decimal to binary, invert, compliment by adding (1) and then it 
 Boolean logic and transistors logic, boolean logic is algebra created to represent Ture and False of AND, OR and also Note gates. Transistor logic uses transistors to provide the same Gates in which creates would create circuits.
 
 AND Gate, example - 0,0 = 0, 0,1 =0. 
+
+Sample 4 bit adder, 2 different inputs, sum and carry. When you have 3 lines one represents the carry. 4 bits in binary represent 1,2,4,8. 
+
+Flip flops, every time a clock is pulsed, then it will flip the Q pulses.
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

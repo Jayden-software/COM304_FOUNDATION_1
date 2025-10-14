@@ -36,6 +36,7 @@ Node-RED
 
 Using a simple program and turning it into a machine code that will run on a CPU.
 
+<img width="2553" height="1347" alt="image" src="https://github.com/user-attachments/assets/b8aa2133-1a33-4c62-b8af-ccb1439c7935" />
 
 ## Summary of learning
 *What did you learn through these exercises*

@@ -30,7 +30,7 @@ Closed source, Microsoft, Windows, these companies can modify it but the consume
 
 Open source, GitLab, and Odoo, this means that it is the definitive opposite of closed source meaning it can be modified freely.
 
-Node-RED 
+Node-RED, a low level development tool for programming.
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

@@ -40,3 +40,7 @@ Using a simple program and turning it into a machine code that will run on a CPU
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+How to use C+ to convert it to machine code for the CPU to then read.
+
+The difference between Closed and Open sources. Compiled and Interpreted languages.

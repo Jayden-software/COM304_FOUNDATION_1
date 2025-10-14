@@ -26,6 +26,10 @@ Interpreted language, it simultaneously translates the byte code and then runs o
 
 Compiled language, Interpreting the language in advance and not within real time so it is similar but different to interpreted language. When you run a program it has usually already been compiled and these files contains byte code not the original language the program has been wrote in. A disadvantage of this is that the source code has not been given so it cannot be modified due to not having teh osurce code and the program being read through bytes (1 and 0).
 
+Closed source, Microsoft, Windows, these companies can modify it but the consumer cant due to having a closed source.
+
+Open source, GitLab, and Odoo, this means that it is the definitive opposite of closed source meaning it can be modified freely.
+
 Node-RED 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*

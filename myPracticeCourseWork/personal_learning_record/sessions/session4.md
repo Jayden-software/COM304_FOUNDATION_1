@@ -34,6 +34,7 @@ Node-RED
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
+Using a simple program and turning it into a machine code that will run on a CPU.
 
 
 ## Summary of learning

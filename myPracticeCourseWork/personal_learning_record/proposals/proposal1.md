@@ -101,7 +101,7 @@ As my way of implementing a hot desk solution through a booking scheme it would 
       <ol>
         <li>idea</li> Efficient energy uses as some employees may work from a laptop instead of a desk
         <li>idea</li> Better quality of IT products such as PC's or Keyboard and Mouses
-        <li>idea</li> Enhanced technological use as I could implement a QE code to log in to show that one is using a desk
+        <li>idea</li> Enhanced technological use as I could implement a QR code to log in to show that one is using a desk
       </ol> 
     </td>
   </tr>

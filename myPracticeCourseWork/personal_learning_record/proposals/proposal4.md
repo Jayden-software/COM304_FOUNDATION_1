@@ -14,7 +14,14 @@ This conveys the pinout command, (asassy n.d.)
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
-Within session 
+The class session in which this topic was covered was within session 3, within this I connected a pi to a monitor and ran certain code, installed an os onto the pi and connected it to the internet. Therefore, from personal research to implement this proposal you must connect the GIPo pins to allow for the IoT device to be implemented, this diagram conveys the pins
+
+<img width="594" height="322" alt="image" src="https://github.com/user-attachments/assets/f57b2191-82ee-4412-b4b3-4b6a0286a3f8" />  
+
+Therefore the next step would be to implement a written code in which can be done through Python and this will then be sent to the local server, overseen at, (Anon. 2025b) 
+
+
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
@@ -121,3 +128,5 @@ Within session
 References
 
 ASASSY, n.d. Introduction to the Raspberry Pi GPIO and Physical Computing - learn.sparkfun.com Available from: https://learn.sparkfun.com/tutorials/introduction-to-the-raspberry-pi-gpio-and-physical-computing/gpio-pins-overview 
+
+ANON., 2025b. IoT Raspberry Pi Device - Raspberry Valley [viewed 17 October 2025]. Available from: https://raspberry-valley.azurewebsites.net/IoT-Raspberry-Pi-Device 

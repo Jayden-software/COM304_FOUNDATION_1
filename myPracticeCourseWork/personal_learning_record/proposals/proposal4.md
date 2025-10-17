@@ -35,16 +35,16 @@ Therefore the next step would be to implement a written code in which can be don
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> It can be deemed versatile as its very compact
+        <li>idea</li> Low cost to create numerous as this would improve efficiency
+        <li>idea</li> Simple to maintain
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Security risks are high
+        <li>idea</li> Power consumption is limited 
+        <li>idea</li> Lack of stroage within the rapsberry pi
       </ol> 
     </td>
   </tr>
@@ -55,16 +55,16 @@ Therefore the next step would be to implement a written code in which can be don
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Good pathway to create an IoT device
+        <li>idea</li> It is cheap to buy so it creates an opportunity to have numerous around the muesuems and librarys
+        <li>idea</li> Powerful so it can be used for different uses 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Security risks
+        <li>idea</li> Cyberattacks risks are increased
+        <li>idea</li> IoT risks as an insecure pi can become a method for attackers to get sensitive information, overseen at, (Anon. 2025c) 
       </ol> 
     </td>
   </tr>
@@ -130,3 +130,5 @@ References
 ASASSY, n.d. Introduction to the Raspberry Pi GPIO and Physical Computing - learn.sparkfun.com Available from: https://learn.sparkfun.com/tutorials/introduction-to-the-raspberry-pi-gpio-and-physical-computing/gpio-pins-overview 
 
 ANON., 2025b. IoT Raspberry Pi Device - Raspberry Valley [viewed 17 October 2025]. Available from: https://raspberry-valley.azurewebsites.net/IoT-Raspberry-Pi-Device 
+
+ANON., 2025c. Raspberry Pi Risks - A Friend or Foe? Available from: https://sepiocyber.com/resources/whitepapers/raspberry-pi-a-friend-or-foe/ 

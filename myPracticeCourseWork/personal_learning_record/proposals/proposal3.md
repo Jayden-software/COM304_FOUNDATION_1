@@ -9,9 +9,13 @@ Within this proposal it is to allow councellors to work from home and connect to
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
-From personal research, I have known what a VPN does and I have used one myself. This diagram demonstrates how a VPN is working through a virtual diagram.
+From personal research and use, I have known what a VPN does and I have used one myself. This diagram demonstrates how a VPN is working through a virtual diagram.
+
 <img width="627" height="730" alt="Screenshot 2025-10-17 131145" src="https://github.com/user-attachments/assets/3a61f5ea-eae3-4ff7-8e29-733af9901051" />
 
+Overseen at, (Anon. 2025) 
+
+Moreover, the first step demonstrates a theoretical tunnel from a device to the VPN, secondly it encrypts the data, thirdly it hides the IP address of the device that is being implemented into the VPN, and finally the internet traffic is routed the VPN server, overseen at, (Anon. 2025).
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
@@ -25,16 +29,16 @@ From personal research, I have known what a VPN does and I have used one myself.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Being able to be anynomous
+        <li>idea</li> Increased privacy compared to using a public network
+        <li>idea</li> Security when browsing
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Slow connection as changing your IP creates a longer connection route from the server to the designated network
+        <li>idea</li> Being blocked from certain websites
+        <li>idea</li> Security risks
       </ol> 
     </td>
   </tr>
@@ -45,16 +49,16 @@ From personal research, I have known what a VPN does and I have used one myself.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Securing the network you are working from
+        <li>idea</li> Enhancements upon your overall essence of online activity
+        <li>idea</li> Secures your data transmission as the VPN will encrypt the internet traffic that is flowing through
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Having a bad VPN provider could lead to malware on your system
+        <li>idea</li> Slow connection times can lead to decrease in productivity
+        <li>idea</li> Some VPN servers are prone to data leaks
       </ol> 
     </td>
   </tr>

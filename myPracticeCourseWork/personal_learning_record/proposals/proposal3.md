@@ -84,7 +84,7 @@ Moreover, the first step demonstrates a theoretical tunnel from a device to the 
       <ol>
         <li>idea</li> Can be costly when creating a VPN server
         <li>idea</li> Keeping the equipment up-to-date and maintained
-        <li>idea</li> Cost savings is paradoxical as using a VPN system will allow for no need for certain office spaces for PC's. Furthermore 
+        <li>idea</li> Cost savings is paradoxical as using a VPN system will allow for no need for certain office spaces for PC's. Furthermore, it can then reduce finance's as using a VPN prevents data breach and loss in which would have created high costs, overseen at, (Perimeter 81 2024)
       </ol> 
     </td>
   </tr>
@@ -95,16 +95,16 @@ Moreover, the first step demonstrates a theoretical tunnel from a device to the 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Councellors may feel much more flexible working from home
+        <li>idea</li> Reduced conflict between councllers 
+        <li>idea</li> Remote work will amplify secure connection between the end user and the VPN server
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Increased cyberattacks due to rapid advanced within software and technology as a whole
+        <li>idea</li> VPN speeds may be affected
+        <li>idea</li> A VPN would enhance an overall security for the end-user
       </ol> 
     </td>
   </tr>
@@ -114,6 +114,7 @@ Moreover, the first step demonstrates a theoretical tunnel from a device to the 
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* 
 * question 2
 
 ## Evaluation of the proposal
@@ -123,3 +124,5 @@ Moreover, the first step demonstrates a theoretical tunnel from a device to the 
 References
 
 MICROSOFT AZURE, 2024. What is a VPN? Why Should I Use a VPN? Available from: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn 
+
+PERIMETER 81, 2024. ROI Revolution: Quantifying the Financial Benefits of Implementing a Business VPN for Growth [viewed 17 October 2025]. Available from: https://sase.checkpoint.com/blog/cloud/business-vpn-roi 

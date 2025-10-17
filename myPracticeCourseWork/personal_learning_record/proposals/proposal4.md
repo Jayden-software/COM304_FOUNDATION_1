@@ -81,16 +81,16 @@ Therefore the next step would be to implement a written code in which can be don
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Political tenstions may rise the costs of componenets or the actual raspberry pi's themselves
+        <li>idea</li> Geopolitical issues may affect the supply chain correlating to idea 1
+        <li>idea</li> Data privacy such as GDPR (General Data Protection Regulation)
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Cheap costs for buying one
+        <li>idea</li> Low maintanence and costs for using a raspberry pi
+        <li>idea</li> The current market may see groth due to high demands for raspberry pi's
       </ol> 
     </td>
   </tr>
@@ -101,16 +101,16 @@ Therefore the next step would be to implement a written code in which can be don
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> It is affordable
+        <li>idea</li> It creates space for innovation as its open sourced
+        <li>idea</li> Influences collaborative practice due to the correlation to open source
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> It has an open source allowing for code to be modified and changed
+        <li>idea</li> Components are not that avaliable
+        <li>idea</li> Compact design allows for it to be versaile
       </ol> 
     </td>
   </tr>

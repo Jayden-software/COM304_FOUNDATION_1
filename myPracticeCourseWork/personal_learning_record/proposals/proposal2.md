@@ -5,6 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+Within this proposal it is directing me to move software running in the server room into the cloud. What I think this may mean is to move all of the data from the council to a data center in which would be ran by a cloud provider, moreover, to implement this I would first do a step by step process, within this the first step would be to evaluate the data from the council. The second step would be undertsand how to and plan a way to move all the data within the server to a cloud provider such as google cloud and then follow up with a testing procedure to ensure that all the data is moved over to the google cloud permantly.
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 

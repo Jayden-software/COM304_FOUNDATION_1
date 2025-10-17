@@ -122,3 +122,5 @@ Upon research and giving a way to implement this designated proposal, I think th
 
 References
 ACTITIME, 2022. Waterfall Model: What Is It, When and How To Use It? Available from: https://www.actitime.com/project-management/what-is-waterfall-model 
+
+HEALTH AND SAFETY EXECUTIVE, 2025. Are you an Employee? - Slips and trips - HSE Available from: https://www.hse.gov.uk/slips/workers.htm 

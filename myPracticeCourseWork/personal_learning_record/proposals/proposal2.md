@@ -111,11 +111,13 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* Which cloud would the council use?
 * question 2
+* What is the budget plan for designating the cloud for the council?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
-
+From the research gathered upon designating a cloud server for software running in the server is a great idea. As the benefits far out weigh the negatives such as an enhanced security system, cost effective, no need for physical hardware reducing maintenance costs. In addition, improvements upon collaborative practice. All of these advantages are why a majority of caompanies choose to use the cloud over a physical server, moreover, I would suggest the council to plan a structural prject plan that will ensure an anlysis upon the software being transfered. Furthermore, I would suggest the council to use the google cloud as it is reliable and effective for stroing software and data.
 
 References
 

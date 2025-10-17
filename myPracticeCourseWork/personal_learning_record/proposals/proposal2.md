@@ -10,6 +10,9 @@ Within this proposal it is directing me to move software running in the server r
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
 Within session 1 I researched what the cloud is and how it works, in summary it is a hiddem netwrok that restores, rerains and process data from a laptop. 
+<img width="1197" height="52" alt="image" src="https://github.com/user-attachments/assets/01fbbea7-fa45-417a-95d7-2eba88b55805" />
+This was a written summary of seesion 1 as a breif overview of what was conveyed.
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 

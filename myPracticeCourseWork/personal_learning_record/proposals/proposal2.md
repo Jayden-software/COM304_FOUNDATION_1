@@ -72,16 +72,16 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Securing Sensitive Information as they must follow a robust scheme to ensure that there is minmal data leakage, overeen at, (Anon. n.d.) 
+        <li>idea</li> Overall essence of givernment policies over data
+        <li>idea</li> International regulations as any geopolitical issue could cause disruption of any data that is flown through
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Decreased in costs as 'it elminates the need for data storage hardware', overseen at, (News 2023)  
+        <li>idea</li> Improved cost efficiency's as there is no need to maintain hardware
+        <li>idea</li> Flexibility for time
       </ol> 
     </td>
   </tr>
@@ -92,16 +92,16 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Imporved collaborative practice as multiple people can work on the same document simultaneously
+        <li>idea</li> Efficient file connectivities 
+        <li>idea</li> Improved speed 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> No need for physical hardware 
+        <li>idea</li> Data loss is decreased massively
+        <li>idea</li> Up-to-date security systems
       </ol> 
     </td>
   </tr>
@@ -122,3 +122,5 @@ References
 NEWS, B., 2023. Why is the cloud so cost-effective? Available from: https://blog.box.com/why-is-the-cloud-so-cost-effective 
 
 ANON., 2023. Managing Cloud Misconfigurations Risks | CSA Available from: https://cloudsecurityalliance.org/blog/2023/08/14/managing-cloud-misconfigurations-risks# 
+
+ANON., n.d. Cloud Computing & Politics: Voting Services & Security Available from: https://sopa.tulane.edu/blog/cloud-computing-and-politics 

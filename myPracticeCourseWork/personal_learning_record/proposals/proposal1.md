@@ -8,6 +8,10 @@
 Within this proposal I am neant to replace all office PC's with a hot desk solution. What thus may mean is to ensure that there is a flexible workplace environment, there is no designated assigned desk but rather used by different people at any given time. To implement this I could create a designated booking scheme, this can be done through Micorosoft 365 specifically within Excel as this is a cost efficient method in which would promote flexibility for booking hours.
 ## Technologies and research relevant to this proposal 
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+This can be correlated to session 4 notes upon project frameworks as this is a direct link to organisation and efficiency. To reinforce this I could implement and use the waterfall methodology 
+<img width="793" height="451" alt="image" src="https://github.com/user-attachments/assets/899342f7-65fc-478e-a7ee-9ef84dd947b4" />
+
+As my way of implementing a hot desk solution through a booking scheme it would be considered a project, therefore this approach being reinforced by the waterrfall method will ensure that there is a comprehensible structure forthe project.
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
@@ -16,22 +20,22 @@ Within this proposal I am neant to replace all office PC's with a hot desk solut
 *You can use html tables in markdown*
  <table>
   <tr>
-    <th>Strength</th>
+    <th>Strength</th> 
     <th>Weakness</th>
-  </tr>
+  </tr> 
   <tr>
     <td>
-      <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+      <ol> 
+        <li>idea</li> Improved flexibility
+        <li>idea</li> Employee satisfaction
+        <li>idea</li> More space
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Undefined structure due to employees not knowing where they are going to work
+        <li>idea</li> Collaboration may be disruoted 
+        <li>idea</li> Some employees may not like the system
       </ol> 
     </td>
   </tr>
@@ -42,16 +46,16 @@ Within this proposal I am neant to replace all office PC's with a hot desk solut
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Increased interactions as employees are in a new environment consistenty
+        <li>idea</li> Although collaborative practice may be disrupted it can be deemed paradoxical as it may do the reverse
+        <li>idea</li> Increased networking potential
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Decrease in productivity as employees may not be adaptable to not having their own space
+        <li>idea</li> Can be time consuming constantly moving around and bringing belongings leading to less productivity
+        <li>idea</li> No personal space leading to employees having psychological impactions
       </ol> 
     </td>
   </tr>
@@ -112,3 +116,6 @@ Within this proposal I am neant to replace all office PC's with a hot desk solut
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
+
+References
+ACTITIME, 2022. Waterfall Model: What Is It, When and How To Use It? Available from: https://www.actitime.com/project-management/what-is-waterfall-model 

@@ -9,6 +9,7 @@ Within this proposal it is directing me to move software running in the server r
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+Within session 1 I researched what the cloud is and how it works, in summary it is a hiddem netwrok that restores, rerains and process data from a laptop. 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 

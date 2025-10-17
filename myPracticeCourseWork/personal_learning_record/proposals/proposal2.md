@@ -54,8 +54,8 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
     <td>
       <ol>
         <li>idea</li> Data breach
-        <li>idea</li> Misconfigurations within the cloud as 'errors in
-        <li>idea</li>
+        <li>idea</li> Misconfigurations within the cloud as 'errors in the setup of cloud-based services and resources that create security vulnerabilities', overseen at, (Anon. 2023) 
+        <li>idea</li> Security risks
       </ol> 
     </td>
   </tr>
@@ -120,3 +120,5 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
 References
 
 NEWS, B., 2023. Why is the cloud so cost-effective? Available from: https://blog.box.com/why-is-the-cloud-so-cost-effective 
+
+ANON., 2023. Managing Cloud Misconfigurations Risks | CSA Available from: https://cloudsecurityalliance.org/blog/2023/08/14/managing-cloud-misconfigurations-risks# 

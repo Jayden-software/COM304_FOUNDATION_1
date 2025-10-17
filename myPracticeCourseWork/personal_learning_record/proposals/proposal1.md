@@ -5,7 +5,8 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-## Technologies and research relevant to this proposal
+Within this proposal I am neant to replace all office PC's with a hot desk solution. What thus may mean is to ensure that there is a flexible workplace environment, there is no designated assigned desk but rather used by different people at any given time. To implement this I could create a designated booking scheme, this can be done through Micorosoft 365 specifically within Excel as this is a cost efficient method in which would promote flexibility for booking hours.
+## Technologies and research relevant to this proposal 
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
 ## Initial Analysis of the Proposal

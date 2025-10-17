@@ -5,7 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-Within this proposal it is to allow councellors to work from home and connect to the council's systems using a VPN. (VPN) stand for Virtualised Private Network, therefore what the cousellor is doing is conncting the council's systems network through a private encrypted network. This can be implmented through setting upa server that is designated to the VPN service as this will allow for connectivity from anywhere. 
+Within this proposal it is to allow councellors to work from home and connect to the council's systems using a VPN. (VPN) stand for Virtualised Private Network, therefore what the cousellor is doing is conncting the council's systems network through a private encrypted network. This can be implmented through setting up a server that is designated to the VPN service as this will allow for connectivity from anywhere. 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
@@ -75,16 +75,16 @@ Moreover, the first step demonstrates a theoretical tunnel from a device to the 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> You can bypass censored information within your country
+        <li>idea</li> There are no legality's for using a VPN in the UK
+        <li>idea</li> Political tensions could lead to cyberattacks and leak information
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Can be costly when creating a VPN server
+        <li>idea</li> Keeping the equipment up-to-date and maintained
+        <li>idea</li> Cost savings is paradoxical as using a VPN system will allow for no need for certain office spaces for PC's. Furthermore 
       </ol> 
     </td>
   </tr>

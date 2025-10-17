@@ -120,10 +120,14 @@ Therefore the next step would be to implement a written code in which can be don
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* How many raspberry pi's will be used?
 * question 2
+* Where and how will the data be stored?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Upon my designated research for ths proposal I feel as if the positives do outweigh the negatives but only by just, this is becuase the main concern is the security risks that are involved however if the council can overcome this issue then applying this proposal will be cost effective and its energy efficient resulting in a great way to count people coming in and out of the library and muesuems.
 
 References
 

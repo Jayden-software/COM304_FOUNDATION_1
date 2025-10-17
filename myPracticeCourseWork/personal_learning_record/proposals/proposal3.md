@@ -116,11 +116,12 @@ Moreover, the first step demonstrates a theoretical tunnel from a device to the 
 * question 1
 * What type of encryption will be used (such as OpenVPN)?
 * question 2
-* What is the connectivity speed needed to run the VPN to the end-user 
+* What is the connectivity speed needed to run the VPN to the end-user?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
+Upon my research that I have gathered I think that providing a VPN for the councellors to work remote from home is a good idea, this is due to my analysis upon whether the strengths or weaknesses outweigh one another and I think the strengths far outwwigh the negatives as implementing this will allow for versatility, decrease in costs although its paradoxical, and an overall essential of security. Furthermore, implementing a dedicated server for the VPN will allow for more security as it creates a tunnel that will secure your ISP (Internet Service Provider). In short the council should go through with this proposal as it will ensure that any sensitive data is secure and firm.
 
 References
 

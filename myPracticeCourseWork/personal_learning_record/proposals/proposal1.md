@@ -72,16 +72,16 @@ As my way of implementing a hot desk solution through a booking scheme it would 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Specific regulations such as policies upon workplace safety
+        <li>idea</li> Health and Safety Act 1974, this conveys that employees must 'take care of themselves and others', overseen at, (Health and Safety Executive 2025). Correlating this back to hot desk solution if an employee damages a keyboard another employee may get hurt from a sharp object
+        <li>idea</li> Heirarchial office desks can lead to employees feeling less equal
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Increased costs due to possibilities of new desks solutions
+        <li>idea</li> Inreasing rent costs of office rates
+        <li>idea</li> Laptop costs if all hot desks are unavailable
       </ol> 
     </td>
   </tr>
@@ -92,16 +92,16 @@ As my way of implementing a hot desk solution through a booking scheme it would 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Changes in lack of personal space
+        <li>idea</li> Constant switching of desks 
+        <li>idea</li> Increased networking opportunities and collaborative practice
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Efficient energy uses as some employees may work from a laptop instead of a desk
+        <li>idea</li> Better quality of IT products such as PC's or Keyboard and Mouses
+        <li>idea</li> Enhanced technological use as I could implement a QE code to log in to show that one is using a desk
       </ol> 
     </td>
   </tr>

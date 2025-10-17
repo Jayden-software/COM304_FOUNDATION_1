@@ -111,11 +111,13 @@ As my way of implementing a hot desk solution through a booking scheme it would 
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* How would the council monitor personal belongings such as having your own locker? 
 * question 2
+* What will the floor plan be and how many floors are there?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
-
+Upon research and giving a way to implement this designated proposal, I think that the best way to implement this project would be to ensure that there is a successful booking system. Within this it must be configured through a project plan as this will ensure that there will be mnimal to no mstakes. However, there are many negatives of this proposal and problems that come with it ranging from employee psuychological impacts to legal and political impacts. For the council to implement this project it would improve their current theoretical framework. As a esult, if the council could implement and convey this proposal successfully it would have many positive chnages to their work environment.
 
 References
 ACTITIME, 2022. Waterfall Model: What Is It, When and How To Use It? Available from: https://www.actitime.com/project-management/what-is-waterfall-model 

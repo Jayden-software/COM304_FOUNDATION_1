@@ -20,22 +20,22 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
 *You can use html tables in markdown*
  <table>
   <tr>
-    <th>Strength</th>
+    <th>Strength</th> 
     <th>Weakness</th>
   </tr>
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Ensures and exhibits strong security 
+        <li>idea</li> Reliable and effective
+        <li>idea</li> Lowers costs as 'having less hardware to power reduces the amount you spend to run it', overseen at, (News 2023)
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> If there is a power outage it can disrupt the data that is being sent to the cloud as it is reliant on the internet
+        <li>idea</li> Cloud server downtime due to planned maintanence
+        <li>idea</li> Data leaks
       </ol> 
     </td>
   </tr>
@@ -46,15 +46,15 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Enhanced security potential 
+        <li>idea</li> Automounous automation as it can learn from the data set
+        <li>idea</li> Easily flexible
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Data breach
+        <li>idea</li> Misconfigurations within the cloud as 'errors in
         <li>idea</li>
       </ol> 
     </td>
@@ -115,3 +115,8 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+
+References
+
+NEWS, B., 2023. Why is the cloud so cost-effective? Available from: https://blog.box.com/why-is-the-cloud-so-cost-effective 

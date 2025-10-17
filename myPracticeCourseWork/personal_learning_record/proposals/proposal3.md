@@ -114,8 +114,9 @@ Moreover, the first step demonstrates a theoretical tunnel from a device to the 
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
-* 
+* What type of encryption will be used (such as OpenVPN)?
 * question 2
+* What is the connectivity speed needed to run the VPN to the end-user 
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*

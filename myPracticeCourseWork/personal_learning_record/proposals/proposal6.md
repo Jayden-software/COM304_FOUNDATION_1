@@ -97,14 +97,14 @@ Overseen at, (Bridgeland and Zahavi 2009)
       <ol>
         <li>idea</li> Increased productivity through having a structured primary gateway to access information
         <li>idea</li> Consumers may feel like they are in a community 
-        <li>idea</li> Increased social capital as the 'value derived from social networks and relationships
+        <li>idea</li> Increased social capital as the 'value derived from social networks and relationships', overseen at, (Claridge 2004) 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Building a bigger online presence
+        <li>idea</li> Efficient and effective for processing infomation
+        <li>idea</li> More integrational features for hardware as a device can be utilised fully through the camera or contacts
       </ol> 
     </td>
   </tr>
@@ -114,7 +114,9 @@ Overseen at, (Bridgeland and Zahavi 2009)
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* Will the app be on multiple app stores/platforms?
 * question 2
+* What language will be used to build the app and or improve the website to ensure that these two are the primary gateways for access?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
@@ -122,3 +124,5 @@ Overseen at, (Bridgeland and Zahavi 2009)
 References
 
 BRIDGELAND, D.M. and R. ZAHAVI, 2009. Business Process Models. Elsevier eBooks, 103–137 
+
+CLARIDGE, T., 2004. Definitions of Social Capital - Social Capital Research & Training Available from: https://www.socialcapitalresearch.com/literature/definition/ 

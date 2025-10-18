@@ -9,6 +9,10 @@ Within this specific proposal it is to prefer open source software over prorieta
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+The class sessions in which open source was conveyed was within session 4/5, within this I learnt that the platform Github is open source aswell as the linux operating system in which I installed for the raspberry pi. Moreover, the differences between open source and prorietary is significant, 
+
+<img width="879" height="520" alt="image" src="https://github.com/user-attachments/assets/6d4c2b33-8738-499d-9345-bfbcd3e33de5" />
+
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
@@ -111,4 +115,8 @@ Within this specific proposal it is to prefer open source software over prorieta
 * question 2
 
 ## Evaluation of the proposal
+
+References
+
+DINH, C., 2024. Unlock the Difference between Open-Source and Proprietary Software | Relia Software Available from: https://reliasoftware.com/blog/difference-between-open-source-and-proprietary-software 
 *Povide a breif evaluation based on what you know*

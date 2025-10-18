@@ -73,16 +73,16 @@ The class sessions in which open source was conveyed was within session 4/5, wit
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Some softwares may not work due to countries legislations
+        <li>idea</li> Vulnerbilities of copyrights licenses
+        <li>idea</li> Security threats can lead to political concern
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Low costs as there is no license/monthly fee
+        <li>idea</li> Low entry for coding meaning a company could hire a junior and save on salary expenses
+        <li>idea</li> Innovative potential
       </ol> 
     </td>
   </tr>
@@ -93,16 +93,16 @@ The class sessions in which open source was conveyed was within session 4/5, wit
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Collaboration between people
+        <li>idea</li> Increased projects 
+        <li>idea</li> Improvement upon work ethics 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Innovation through being able to do anything
+        <li>idea</li> Simple use for coding practice
+        <li>idea</li> It is very adaptable leading to proficiency for many areas of langauges.
       </ol> 
     </td>
   </tr>

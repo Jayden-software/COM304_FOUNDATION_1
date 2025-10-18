@@ -27,7 +27,7 @@ The class sessions in which open source was conveyed was within session 4/5, wit
   <tr>
     <td>
       <ol>
-        <li>idea</li> Accessto all of the source code
+        <li>idea</li> Access to all of the source code
         <li>idea</li> Versatile
         <li>idea</li> Adaptable
       </ol> 
@@ -112,9 +112,13 @@ The class sessions in which open source was conveyed was within session 4/5, wit
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* What langauge will be used when running open source?
 * question 2
+* What type of purchasing decision, specifically what kind of product?
 
 ## Evaluation of the proposal
+
+From the research gathered i can conclusivley say that this proposal is a great idea, this is due to there being numerous of positives that will amplify the purchasing decisions process as it is very versatile, and specifically having access to all of the source code allowing for potential within creating code for purchasing decisions.
 
 References
 

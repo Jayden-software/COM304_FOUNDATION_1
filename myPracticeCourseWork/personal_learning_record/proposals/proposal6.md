@@ -11,7 +11,8 @@ Within this designated proposal the idea is to make the council's web site and a
 
 Theoretically if it was to be implemented the council could use a parallel gateway as this would process both the web site and the council's app through amalgamating it, this diagram conveys this.
 
-<img width="668" height="385" alt="image" src="https://github.com/user-attachments/assets/b2b43539-690c-4f86-9a3b-ffd3838f97de" />
+<img width="427" height="362" alt="image" src="https://github.com/user-attachments/assets/750993e1-3540-42ce-88a2-475f952fceb8" />
+
 
 Overseen at, (Bridgeland and Zahavi 2009) 
 

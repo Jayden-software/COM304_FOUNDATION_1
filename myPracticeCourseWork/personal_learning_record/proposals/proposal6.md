@@ -75,16 +75,16 @@ Overseen at, (Bridgeland and Zahavi 2009)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> App store regulations
+        <li>idea</li> Legislations for certain countries due to political issues
+        <li>idea</li> Data collection through the use of cookies
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Effective way of processing payments
+        <li>idea</li> Resources are allocated effectively and simply
+        <li>idea</li> It can be costly due to constantly having to maintain the app but can also be deemed paradoxical as it can have minimal transactional costs
       </ol> 
     </td>
   </tr>
@@ -95,9 +95,9 @@ Overseen at, (Bridgeland and Zahavi 2009)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Increased productivity through having a structured primary gateway to access information
+        <li>idea</li> Consumers may feel like they are in a community 
+        <li>idea</li> Increased social capital as the 'value derived from social networks and relationships
       </ol> 
     </td>
     <td>

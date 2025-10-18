@@ -121,6 +121,8 @@ Overseen at, (Bridgeland and Zahavi 2009)
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
+From the information that I have conveyed and gathered, I would say that the proposal is a good idea however it will be hard to implement as creating a primary gateway is not easy, but there are many advantages that would benefit the council such as being able to have a straightfoward method to gather information that could potentially increase productivity, and allowing 24 hour access and offiline hours for use for the consumer.
+
 References
 
 BRIDGELAND, D.M. and R. ZAHAVI, 2009. Business Process Models. Elsevier eBooks, 103–137 

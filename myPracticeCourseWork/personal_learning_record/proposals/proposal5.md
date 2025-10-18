@@ -27,16 +27,16 @@ The class sessions in which open source was conveyed was within session 4/5, wit
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Accessto all of the source code
+        <li>idea</li> Versatile
+        <li>idea</li> Adaptable
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Bugs with the code
+        <li>idea</li> Prone to SQL injectors by 'injecting code into input fields', overseen at, (Beazley 2024) 
+        <li>idea</li> Security risks due to anybody being able to modify the code
       </ol> 
     </td>
   </tr>
@@ -47,16 +47,16 @@ The class sessions in which open source was conveyed was within session 4/5, wit
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Improved collaborative practice
+        <li>idea</li> More effective work input as people can do group projects
+        <li>idea</li> A lot of customisation opportunity
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Security 
+        <li>idea</li> Cyberattacks
+        <li>idea</li> Code injections
       </ol> 
     </td>
   </tr>
@@ -120,3 +120,5 @@ References
 
 DINH, C., 2024. Unlock the Difference between Open-Source and Proprietary Software | Relia Software Available from: https://reliasoftware.com/blog/difference-between-open-source-and-proprietary-software 
 *Povide a breif evaluation based on what you know*
+
+BEAZLEY, H., 2024. How to Identify Vulnerabilities in Open Source Code Available from: https://finitestate.io/blog/how-to-identify-vulnerabilities-in-open-source-code 

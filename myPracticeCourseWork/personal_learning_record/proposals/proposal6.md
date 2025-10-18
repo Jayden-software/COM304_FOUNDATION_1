@@ -29,16 +29,16 @@ Overseen at, (Bridgeland and Zahavi 2009)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Ease of access 
+        <li>idea</li> Adaptable if the app is implemented into different app stores and the web site can be accessed through multiple browsers
+        <li>idea</li> Avaliable during the 24 hours unless maintenance is planned in advanced
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Security risks
+        <li>idea</li> can be financially costly
+        <li>idea</li> Always needing maintenance
       </ol> 
     </td>
   </tr>
@@ -49,16 +49,16 @@ Overseen at, (Bridgeland and Zahavi 2009)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Having crossplatform capabilities
+        <li>idea</li> Some devices may act slow due to low specifications of certain devices
+        <li>idea</li> Expanding the council's online figure
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Cyberattacks
+        <li>idea</li> Limited capabilities on certain app stores such as apple or google stores
+        <li>idea</li> Unplanned maintenance
       </ol> 
     </td>
   </tr>

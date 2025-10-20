@@ -67,3 +67,5 @@ Each of the value corresponds to different value
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+Through this excercise I learnt how to change the seven elements upon numerical value, replacing 0000000, to 123456.

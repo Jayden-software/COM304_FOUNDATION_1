@@ -59,9 +59,11 @@ Seven segment displays having 7 leds in which can be created into numerical valu
 *What exercises did you complete. What results. Screen shots and notes*
 <img width="2166" height="506" alt="image" src="https://github.com/user-attachments/assets/5370ae3f-fc50-4a18-abe7-4a390966480e" />
 
-This is writing both segments of displays to 0
+This is writing both segments of displays to 0, I must see which segments will give me 1,2,3,4
 
 loading into register 0 and I have to put the binary number into the seven segment display to give me a 1, therefore it will write 1 into a value
+
+Each of the value corresponds to different value
 
 ## Summary of learning
 *What did you learn through these exercises*

@@ -11,6 +11,13 @@ The main topic of session 6 was designated towards creating a traffic light thro
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+Connect the GPIo pins via the led lights
+
+Create three different ciruits with an accurate time scale
+
+Node RED, node red is a basic building block of a flow, 'Nodes are triggered by either receiving a message from the previous node in a flow, or by waiting for some external event', overseen at, (Anon. n.d.) 
+
+The flkow represents as a tab within the workspace
 
 
 ## Exercises and results
@@ -24,3 +31,7 @@ Within this excercise it was to complete three seperate circuits that would ciru
 *What did you learn through these exercises*
 
 Through the exercisen and session I learnt hyow to use and download Node RED on a raspberry Pi and also how to iinstall and use the eduroam program
+
+References
+
+ANON., n.d. Node-RED Concepts : Node-RED Available from: https://nodered.org/docs/user-guide/concepts 

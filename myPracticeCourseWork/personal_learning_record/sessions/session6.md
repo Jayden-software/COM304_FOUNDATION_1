@@ -31,10 +31,7 @@ The wire connect the node and conveys the in what way the messages are being pas
 
 The subflow is the total collection of nodes taht can then be used in a sinmgle workspace
 
-
-
-
-
+Finally, the workspace is practically the headquarter as it is the area 'where flows are developed by dragging nodes from the palette and wiring them together', conveyed at, (Anon. n.d.)  
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*

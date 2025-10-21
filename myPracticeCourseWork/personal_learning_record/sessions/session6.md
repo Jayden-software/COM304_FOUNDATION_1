@@ -17,7 +17,23 @@ Create three different ciruits with an accurate time scale
 
 Node RED, node red is a basic building block of a flow, 'Nodes are triggered by either receiving a message from the previous node in a flow, or by waiting for some external event', overseen at, (Anon. n.d.) 
 
-The flkow represents as a tab within the workspace
+The flow represents as a tab within the workspace
+
+Key concepts include, configuration node, flow, context, message, subflow, wire, palette, workspace, and sidebar
+
+The configuration node in which holds onto reusable configurations
+
+Context is a designated place where information can be stored 
+
+The message concept is very simple, it is what passes through the flow between the node
+
+The wire connect the node and conveys the in what way the messages are being passed through
+
+The subflow is the total collection of nodes taht can then be used in a sinmgle workspace
+
+
+
+
 
 
 ## Exercises and results

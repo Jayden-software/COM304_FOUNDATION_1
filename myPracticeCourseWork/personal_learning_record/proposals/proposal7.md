@@ -28,16 +28,16 @@ Overseen at, (Reddy 2019)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Much easier to corerect any code mistakes
+        <li>idea</li> Low maintenance
+        <li>idea</li> Low costs due to needing to hire a senior software engineer cutting salary costs
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Oversimplification of code
+        <li>idea</li> Low to no customisability
+        <li>idea</li> Its harder to create more complex applications due to the low code limit
       </ol> 
     </td>
   </tr>
@@ -48,16 +48,16 @@ Overseen at, (Reddy 2019)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Easier collaborative work practice
+        <li>idea</li> Enhanced cost savings
+        <li>idea</li> Increased productivity due to the ability to innovate quicker and faster
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Security threats
+        <li>idea</li> Low customisation leading to bland applications in which can lead to negative reviews of an app or program
+        <li>idea</li> Inconsistency between codes due to it be oversimplified
       </ol> 
     </td>
   </tr>

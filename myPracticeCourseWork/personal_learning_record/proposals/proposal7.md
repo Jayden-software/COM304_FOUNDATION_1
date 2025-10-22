@@ -5,7 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-Within this designated proposal it asking to move from traditional programming to low code/no code paradiagram 
+Within this designated proposal it asking to move from traditional programming to low code/no code paradiagram and agile project managemet methodologies, what this means is to have and designate low code areas within a program to increase the efficiency of a software pplication. Moreover, this can be implemented through a drag and drop functionality in which is an 'intuative way to transfer data within an application or between applications on the windows desktop.
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
@@ -111,3 +111,7 @@ Within this designated proposal it asking to move from traditional programming t
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+References 
+
+ANON., 2025d. What is Low-Code Development? | Microsoft Power Apps [viewed 22 October 2025]. Available from: https://www.microsoft.com/en-gb/power-platform/products/power-apps/topics/low-code-no-code/what-is-low-code 

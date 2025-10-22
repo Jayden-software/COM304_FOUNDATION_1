@@ -120,7 +120,7 @@ Overseen at, (Reddy 2019)
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
-Upon reseaarch I think that there is a great opportunity for the council to leverage towards low/no code as it it low costing/maintaning, innovative opportunities by amalgamating AI with lwo code and this is good as AI is currently only able to convey low code accurately. Therefore implementing this for the coucil within the agile framework will be effective and efficient.
+Upon reseaarch I think that there is a great opportunity for the council to leverage towards low/no code as it it low costing/maintaning, innovative opportunities by amalgamating AI with lwo code and this is good as AI is currently only able to convey low code accurately. Therefore, implementing this for the council within the agile framework will be effective and efficient.
 
 References 
 

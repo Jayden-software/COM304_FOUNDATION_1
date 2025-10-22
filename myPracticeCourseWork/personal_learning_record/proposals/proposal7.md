@@ -9,6 +9,12 @@ Within this designated proposal it asking to move from traditional programming t
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+Within session 4 the topic of project management was covered including the waterfall methodology and the agile methodology. This diagram is a visual way to represent how the agile methodology works
+
+<img width="837" height="559" alt="image" src="https://github.com/user-attachments/assets/c95cc399-33b5-427f-b5d1-65ecd641ea65" />
+
+Overseen at, (Reddy 2019)
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
@@ -117,3 +123,5 @@ References
 ANON., 2025d. What is Low-Code Development? | Microsoft Power Apps [viewed 22 October 2025]. Available from: https://www.microsoft.com/en-gb/power-platform/products/power-apps/topics/low-code-no-code/what-is-low-code
 
 KARL-BRIDGE-MICROSOFT, 2024. Drag and drop - Windows apps [viewed 22 October 2025]. Available from: https://learn.microsoft.com/en-us/windows/apps/design/input/drag-and-drop 
+
+REDDY, S., 2019. Agile Project Management Methodology — Manifesto, Frameworks and Process Available from: https://medium.com/@sudarhtc/agile-project-management-methodology-manifesto-frameworks-and-process-f4c332ddb779 

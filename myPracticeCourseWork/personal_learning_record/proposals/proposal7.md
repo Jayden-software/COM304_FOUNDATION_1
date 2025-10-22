@@ -113,10 +113,14 @@ Overseen at, (Reddy 2019)
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* When is the low code going to be implemented?
 * question 2
+* How long will the project take?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Upon reseaarch I think that there is a great opportunity for the council to leverage towards low/no code as it it low costing/maintaning, innovative opportunities by amalgamating AI with lwo code and this is good as AI is currently only able to convey low code accurately. Therefore implementing this for the coucil within the agile framework will be effective and efficient.
 
 References 
 

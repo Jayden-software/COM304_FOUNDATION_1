@@ -5,6 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+Within this designated proposal it asking to move from traditional programming to low code/no code paradiagram 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 

@@ -74,16 +74,16 @@ Overseen at, (Reddy 2019)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Some sotware may have limitations in certain countries due to political regulations
+        <li>idea</li> Security issues can lead to politians raising concerns upon the security of teh software being applied to businesses and councils
+        <li>idea</li> Can be prone to data breaches leading to bad ahndling of peoples data
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Low costs
+        <li>idea</li> Low maintenance
+        <li>idea</li> Innovative opportunities for the council to expand its presence
       </ol> 
     </td>
   </tr>
@@ -94,16 +94,16 @@ Overseen at, (Reddy 2019)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Collaborative practice increases
+        <li>idea</li> Productivity can be improved through low code
+        <li>idea</li> Efficient and adequate work ethics
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Less demanding for laptops and Pc's
+        <li>idea</li> Fast and accurate development for applications
+        <li>idea</li> Being able to amalgamate AI with the low code
       </ol> 
     </td>
   </tr>

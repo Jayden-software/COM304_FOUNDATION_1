@@ -28,16 +28,16 @@ Overseen at, (Anon. n.d.)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Easy to use 
+        <li>idea</li> Tasks can be simplified effectively and efficiently
+        <li>idea</li> Low to 0 costs
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> AI can spread misinformation
+        <li>idea</li> Unreliable as serverse can go down
+        <li>idea</li> Lack of creativity due to it being automated
       </ol> 
     </td>
   </tr>
@@ -48,16 +48,16 @@ Overseen at, (Anon. n.d.)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Less maintenance 
+        <li>idea</li> More efficient work from employees as time can be used for different tasks
+        <li>idea</li> Increased productivity
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Evnironmental threats as it uses a lot of water
+        <li>idea</li> Data privacy can be an issue
+        <li>idea</li> If almost everything is automated then there can be no accountability
       </ol> 
     </td>
   </tr>

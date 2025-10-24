@@ -113,10 +113,14 @@ Overseen at, (Anon. n.d.)
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* What kind of AI application will be used such as Open AI, Chatgpt, Copilot?
 * question 2
+* How much money will be invested into the operations for AI?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+From the information gathered i can conculsively say that this proposal is a fantastic idea as it can boost productivity rates by 66%, allow for low costs, and an overall eseence of tasks being managed and conveyed efficiently and swiftly. However, the negatives cannot be undermined as data privacy is a significant issue that must be addressed. As a result, the application of AI through operations will be a significant jump for the council and will boost it's productivty rates.
 
 References
 

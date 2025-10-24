@@ -9,6 +9,11 @@ Within this proposal the council is asking to simplify its operations through th
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+From some research gathered currently, Artificial Intelligence is commonly used within 2025, replacing even some employees due to their job being simplified through automation, looking in the near future (2030), 30% of jobs could be automatable, overseen at, (Talmage-Rostron 2025) 
+
+<img width="901" height="680" alt="image" src="https://github.com/user-attachments/assets/9bb69876-36e5-4c68-99dc-066869275282" />
+
+Overseen at, (Anon. n.d.) 
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
@@ -112,3 +117,9 @@ Within this proposal the council is asking to simplify its operations through th
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+References
+
+TALMAGE-ROSTRON, M., 2025. How Will Artificial Intelligence Affect Jobs 2023-2030 Available from: https://www.nexford.edu/insights/how-will-ai-affect-jobs 
+
+ANON., n.d. How Does AI Work: A Complete Overview Available from: https://dorik.com/blog/how-does-ai-work 

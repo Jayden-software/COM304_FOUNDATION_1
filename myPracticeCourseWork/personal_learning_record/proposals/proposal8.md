@@ -74,16 +74,16 @@ Overseen at, (Anon. n.d.)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Data privacy acan lead to increase political tensions 
+        <li>idea</li> Geopolitical issues can cause shutdown of servers
+        <li>idea</li> Regulations can become challenging as AI can spread misinformation
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Low costs allows for the council to source money for another source
+        <li>idea</li> Producitivity is increased by employers upwards of 66%, overseen at, (Nielsen 2023) 
+        <li>idea</li> Reduces costs through maintenance by allowing AI to configure code
       </ol> 
     </td>
   </tr>
@@ -94,16 +94,16 @@ Overseen at, (Anon. n.d.)
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Allows for collaborative opportunities within other projects expanding the councils presence
+        <li>idea</li> Increased in efficient work by employers
+        <li>idea</li> A negative is that it can also be isolating for employees as most roles will be taken by AI 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Improved services and structure
+        <li>idea</li> More opportunity to expand and create new projects 
+        <li>idea</li> Innovative opportunities
       </ol> 
     </td>
   </tr>
@@ -123,3 +123,5 @@ References
 TALMAGE-ROSTRON, M., 2025. How Will Artificial Intelligence Affect Jobs 2023-2030 Available from: https://www.nexford.edu/insights/how-will-ai-affect-jobs 
 
 ANON., n.d. How Does AI Work: A Complete Overview Available from: https://dorik.com/blog/how-does-ai-work 
+
+NIELSEN, J., 2023. AI Improves Employee Productivity by 66% Available from: https://www.nngroup.com/articles/ai-tools-productivity-gains/ 

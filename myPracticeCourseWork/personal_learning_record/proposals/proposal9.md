@@ -5,6 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+The proposal within this section is to harden the councils security against cyber crime, what this may mean is by securing and minimising risks against an application from cyber crime such as data being leaked, moreover, this can be implemented through consist securty checks and ensure that all software applications are up to date.
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 

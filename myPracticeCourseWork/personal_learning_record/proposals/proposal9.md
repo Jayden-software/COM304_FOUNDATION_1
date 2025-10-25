@@ -13,7 +13,7 @@ From personal research I have seen that within 2025 cyber crime has drastically 
 
 <img width="904" height="456" alt="image" src="https://github.com/user-attachments/assets/8c0f7a60-6628-4a34-b81e-120c137636a5" />
 
-This is overseen at, (Government of the UK 2025) 
+This is overseen at, (Government of the UK 2025), moreover, after identifying this information it is considerate to identify what the primary issue is within cyber attacks, the issue within the UK that causes cyber attacks is phishing, as it 'remains the most reported cyber crime in the UK', overseen at, (Andrews 2025). What phishing is where a person will pretend to be from a company in order to gather sensitive information.
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
@@ -120,3 +120,5 @@ This is overseen at, (Government of the UK 2025)
 References
 
 GOVERNMENT OF THE UK, 2025. Cyber security breaches survey 2025 Available from: https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2025/cyber-security-breaches-survey-2025 
+
+ANDREWS, S., 2025. The Most Popular Cyber Attacks in the UK – And How to Prevent Them - ANSecurity [viewed 25 October 2025]. Available from: https://www.ansecurity.com/the-most-popular-cyber-attacks-in-the-uk-and-how-to-prevent-them/ 

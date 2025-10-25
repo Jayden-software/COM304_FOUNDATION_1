@@ -5,10 +5,15 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-The proposal within this section is to harden the councils security against cyber crime, what this may mean is by securing and minimising risks against an application from cyber crime such as data being leaked, moreover, this can be implemented through consist securty checks and ensure that all software applications are up to date.
+The proposal within this section is to harden the councils security against cyber crime, what this may mean is by securing and minimising risks against an application from cyber crime such as data being leaked, moreover, this can be implemented through consist securty checks and ensure that all software applications are up to date, this would therefore minimise any risks against cyber criminals and within recent times ther are more cases of cyber crime than ever before.
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+From personal research I have seen that within 2025 cyber crime has drastically increased, this can be conveyed through this data report,
+
+<img width="904" height="456" alt="image" src="https://github.com/user-attachments/assets/8c0f7a60-6628-4a34-b81e-120c137636a5" />
+
+This is overseen at, (Government of the UK 2025) 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
@@ -111,3 +116,7 @@ The proposal within this section is to harden the councils security against cybe
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+References
+
+GOVERNMENT OF THE UK, 2025. Cyber security breaches survey 2025 Available from: https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2025/cyber-security-breaches-survey-2025 

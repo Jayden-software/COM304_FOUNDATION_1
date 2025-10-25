@@ -56,7 +56,7 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
       <ol>
         <li>idea</li> Data leaks can still occur
         <li>idea</li> Never being 100% safe as of rapid advancements within cyber crime
-        <li>idea</li> Inconsistent updates to certain applications can lead to risks for teh council
+        <li>idea</li> Inconsistent updates to certain applications can lead to risks for the council
       </ol> 
     </td>
   </tr>
@@ -73,16 +73,16 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Geopolitical tensions can increase cyber crime activity
+        <li>idea</li> Political regulations being in place for certain applications can deter updates
+        <li>idea</li> Legislations for data privacy 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Innovative ooportunity to leverage towards AI
+        <li>idea</li> Can be ,ow costs for the council if planned effectively
+        <li>idea</li> Low maintenance if applications and softwares are updated frequently
       </ol> 
     </td>
   </tr>
@@ -93,16 +93,16 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Increased productivty as employees can use other resources to protect the security of the council
+        <li>idea</li> Loss of jobs if AI can replace employees for cybersecurity
+        <li>idea</li> Needing specific training to implement hardened security 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> AI applications can be used 
+        <li>idea</li> Numerous of applications can be used such as simply using a firewall to stop certain traffic
+        <li>idea</li> An overall essence of innovation for applications
       </ol> 
     </td>
   </tr>
@@ -112,7 +112,9 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* What applications will be used and designated?
 * question 2
+* How much is the councils budget to harden security?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*

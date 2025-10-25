@@ -27,16 +27,16 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Protects sensitive data
+        <li>idea</li> Prevents data leaks
+        <li>idea</li> Minimising vulnerabilities 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Can become costly
+        <li>idea</li> Configuration risks as misconfiguring something could lead to a data leak
+        <li>idea</li> Employees may not be fit for the role and need specific training to secure the council applications
       </ol> 
     </td>
   </tr>
@@ -47,16 +47,16 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Rapid innovation within AI can allow for easy maintenance issues to be solved and reported
+        <li>idea</li> The ability to be able to predict or analyse any incoming threats through learning how cyber crime is being perpetrated
+        <li>idea</li> Employees being able to learn a new skill set
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Data leaks can still occur
+        <li>idea</li> Never being 100% safe as of rapid advancements within cyber crime
+        <li>idea</li> Inconsistent updates to certain applications can lead to risks for teh council
       </ol> 
     </td>
   </tr>

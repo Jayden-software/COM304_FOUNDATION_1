@@ -120,6 +120,7 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
 *Povide a breif evaluation based on what you know*
 
 Overall, from the information gathered I think that it is mandatory to harden security against cyber crime as it is on the rise, the advantages far out weigh the negatives leading to a proficient ability to secure data for the council if implemented correctly against cyber crime.
+
 References
 
 GOVERNMENT OF THE UK, 2025. Cyber security breaches survey 2025 Available from: https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2025/cyber-security-breaches-survey-2025 

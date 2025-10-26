@@ -81,7 +81,7 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
     <td>
       <ol>
         <li>idea</li> Innovative ooportunity to leverage towards AI
-        <li>idea</li> Can be ,ow costs for the council if planned effectively
+        <li>idea</li> Can be low costs for the council if planned effectively
         <li>idea</li> Low maintenance if applications and softwares are updated frequently
       </ol> 
     </td>
@@ -119,7 +119,7 @@ This is overseen at, (Government of the UK 2025), moreover, after identifying th
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
-Overall, from the information gathered I think that it is mandatory to harden security against cyber crime as it is on the rise, the advantages far out weigh the negatives leading to a proficient ability to secure data for the council if implemented correctly against cyber crime.
+Overall, from the information gathered I think that it is mandatory to harden security against cyber crime as it is on the rise, the advantages far out weigh the negatives leading to a proficient ability to secure data for the council if implemented correctly against cyber crime. Moreover, the advantages outweighing the disadvantages can be proven from the rapid innovatiosn within technology as this can benefit the cnouncils use of hardening security through AI and an overall essence of applications having freequent updates within the security branch. In addition, the council can leverage towards mainatining their own services through AI as this can be conveyed through the use of hardening security.
 
 References
 

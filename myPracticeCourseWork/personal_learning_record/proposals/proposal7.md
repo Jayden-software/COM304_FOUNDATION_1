@@ -5,7 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-Within this designated proposal it asking to move from traditional programming to low code/no code paradiagram and agile project managemet methodologies, what this means is to have and designate low code areas within a program to increase the efficiency of a software pplication. Moreover, this can be implemented through a drag and drop functionality in which is an 'intuative way to transfer data within an application or between applications on the windows desktop', overeen at, (Karl-Bridge-Microsoft 2024). In correlation to the agile project management method this is where there are sprints implemeneted within every section allowing for a manageable project experience.
+Within this designated proposal it asking to move from traditional programming to low code/no code paradiagram and agile project managemet methodologies, what this means is to have and designate low code areas within a program to increase the efficiency of a software application. Moreover, this can be implemented through a drag and drop functionality in which is an 'intuative way to transfer data within an application or between applications on the windows desktop', overeen at, (Karl-Bridge-Microsoft 2024). In correlation to the agile project management method this is where there are sprints implemeneted within every section allowing for a manageable project experience.
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 

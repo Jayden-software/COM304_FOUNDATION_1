@@ -39,7 +39,13 @@ rm - removes a designated file
 
 route-n - conveys teh routing table
 
-Within a PI there is a file system in which stores data and organises it through a physical attachment such as an SD card
+Within a PI there is a file system in which stores data and organises it through a physical attachment such as an SD card 
+
+Boot directory is the command that boots the os to start it off and running 
+
+The home folder contains specific users such as admin in which will be held in that folder, it can only be accessed by that user
+
+If your run the ls command it will list all files with the directory and see the access permissions for the files
 
 Within any operatintg systems in order for it to be successful and run it needs to have the corect data structures, this process within a computer is called the boot process
 

@@ -49,6 +49,8 @@ If your run the ls command it will list all files with the directory and see the
 
 Within any operatintg systems in order for it to be successful and run it needs to have the corect data structures, this process within a computer is called the boot process
 
+Different files are hidden from certain users
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

@@ -7,7 +7,9 @@
 
 Operating systems 
 
-Languages specifically linux
+Structure (OS)
+
+Languages specifically linux's (OS)
 
 Key shell commands
 ## Personal Notes and research following this session
@@ -29,13 +31,17 @@ Processes are privliges, operating systems protects processors from crashing
 
 The system clock is teh most important interrupt, it jumps around multiple interrupts simultaneously
 
-Ping - ensures that there is and how strong a connection is to a url
+(Commands) ping - ensures that there is and how strong a connection is to a url
 
 df-h - conveys the amount the disk is using
 
 rm - removes a designated file
 
 route-n - conveys teh routing table
+
+Within a PI there is a file system in which stores data and organises it through a physical attachment such as an SD card
+
+Within any operatintg systems in order for it to be successful and run it needs to have the corect data structures, this process within a computer is called the boot process
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*

@@ -23,7 +23,19 @@ The data link layer will be different if you are connected to wifi. In short it 
 
 The network layer is what does the routing from point A to point B, if you have an IP address the network will control the packets that go from point A - B
 
+A packet is a group of bytes that are put together such as a kilobytes that gets sent across a network
 
+Packet switching is where the packets will get broken into small increments over the network
+
+It is reliable to send data from point A to B through the network layer
+
+Higher layers is the protocol that is used by the application, it is to do with the application itself. They determine what the packets are being used for
+
+The link layer, the e-ethernet is the wire that is used within a protocol
+
+Payloads is the data that is being sent through the network like headers, overseen at, (Anon. 2025) 
+
+Any device has a unique MAC address 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -36,3 +48,5 @@ The network layer is what does the routing from point A to point B, if you have 
 References
 
 SPENCER, J., 2022. Home Network Diagrams - Practically Networked Available from: https://www.practicallynetworked.com/home-network-diagrams/ 
+
+ANON., 2025. Xcitium Software [viewed 3 November 2025]. Available from: https://www.xcitium.com/blog/news/what-is-payload/ 

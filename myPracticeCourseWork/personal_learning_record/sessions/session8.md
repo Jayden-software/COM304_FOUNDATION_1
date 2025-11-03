@@ -35,7 +35,15 @@ The link layer, the e-ethernet is the wire that is used within a protocol
 
 Payloads is the data that is being sent through the network like headers, overseen at, (Anon. 2025) 
 
-Any device has a unique MAC address 
+Some packets when arrived can be corrupted and the checksum, it is a calculator that detecs error within the packets
+
+Any device has a unique MAC address
+
+IPv4 is a lmited number where it provides a unqie numbered address
+
+The source address is the IP address of the addresses
+
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

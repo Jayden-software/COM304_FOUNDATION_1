@@ -53,7 +53,11 @@ TCP - transmission control protocol is reliable and uses a sequence number to en
 
 Sometimes packets are too large for the protocol to control and transmit, what it will do is split it up into increments of smaller packets 
 
+Every router has a routing table 
 
+Internet address uses a 32 bit binary code or HEX, IPV6 uses 128 bits 
+
+Subnetworks is a division of a larger IP network
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

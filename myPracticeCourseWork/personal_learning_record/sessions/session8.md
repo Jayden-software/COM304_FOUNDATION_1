@@ -43,6 +43,16 @@ IPv4 is a lmited number where it provides a unqie numbered address
 
 The source address is the IP address of the addresses
 
+The transport layer is above the network layer, the data within a packet is represented within the netwrok layer but then sent to the transport layer
+
+The application layer doesn't care how its routed before-hand 
+
+UDP - user data protocol is used 'in time sensitive communications where occasionally dropping packets is better than waiting', overseen at, (Cloudflare 2024) 
+
+TCP - transmission control protocol is reliable and uses a sequence number to ensure that every packet is sent, if a packet is wrong then it will request for a new one
+
+Sometimes packets are too large for the protocol to control and transmit, what it will do is split it up into increments of smaller packets 
+
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
@@ -58,3 +68,6 @@ References
 SPENCER, J., 2022. Home Network Diagrams - Practically Networked Available from: https://www.practicallynetworked.com/home-network-diagrams/ 
 
 ANON., 2025. Xcitium Software [viewed 3 November 2025]. Available from: https://www.xcitium.com/blog/news/what-is-payload/ 
+
+CLOUDFLARE, 2024. What is UDP? 
+ | Cloudflare UK. Cloudflare 

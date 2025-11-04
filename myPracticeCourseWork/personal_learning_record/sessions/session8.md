@@ -58,6 +58,12 @@ Every router has a routing table
 Internet address uses a 32 bit binary code or HEX, IPV6 uses 128 bits 
 
 Subnetworks is a division of a larger IP network
+
+The data link layer is to facilitate reliable communication
+
+<img width="1772" height="345" alt="image" src="https://github.com/user-attachments/assets/4b1cbe2f-bdd6-479e-b818-b9a40cca35b9" />
+
+Overseen at, (Shivangi Vatsal 2024) 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -75,3 +81,5 @@ ANON., 2025. Xcitium Software [viewed 3 November 2025]. Available from: https://
 
 CLOUDFLARE, 2024. What is UDP? 
  | Cloudflare UK. Cloudflare 
+
+SHIVANGI VATSAL, 2024. What is the Data Link Layer (OSI Model)? Available from: https://unstop.com/blog/data-link-layer-in-osi-model 

@@ -43,7 +43,7 @@ IPv4 is a lmited number where it provides a unqie numbered address
 
 The source address is the IP address of the addresses
 
-The transport layer is above the network layer, the data within a packet is represented within the netwrok layer but then sent to the transport layer
+The transport layer is above the network layer, the data within a packet is represented within the network layer but then sent to the transport layer
 
 The application layer doesn't care how its routed before-hand 
 

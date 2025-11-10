@@ -36,7 +36,11 @@ An example of DNS could be through typing https of your search that will transla
 
 Microchips, this as inveted by Jack Kilby and Robert Noyce within 1959, overseen at, (Bellis 2009) 
 
+1980's was personal computers (PCs) this was when schools were also investing into these computers along with individuals
 
+CERN was a project udnertaken by numerous of countries that would allow them to explore matter
+
+HTML and HTTP, HTTP is the emchnaism where you put in the http and reference a page that you searched up, HTML is a way to describe a document
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

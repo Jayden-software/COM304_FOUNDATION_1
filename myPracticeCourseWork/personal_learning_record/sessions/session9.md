@@ -23,6 +23,12 @@ Messages can be relayed across a nation such as 200 miles from on station to ano
 
 Morse code - Byte = 8 bits, 1KB = 1024 bytes, Audio = 48KB/ s, and video = 2MB /s
 
+DARPnet - this is the american defense project
+
+The United States government had to create a system that preveneted nucluear warfare
+
+Vint Cerf, he created the ip, udp, tcp, this was done with Robert Khan who he met at UCLA. Moreover, he 'developed the Transmission Control Protocol, designed to facilitate the interconnection of packet switched networks', overseen at, (Anon. 2024) 
+
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
@@ -35,3 +41,5 @@ Morse code - Byte = 8 bits, 1KB = 1024 bytes, Audio = 48KB/ s, and video = 2MB /
 References
 
 ANON., 2022. File:Internet map 4096.png - Wikimedia Commons [viewed 10 November 2025]. Available from: https://commons.wikimedia.org/wiki/File:Internet_map_4096.png 
+
+ANON., 2024. Service Not Allowed Available from: https://cloud.google.com/transform/vint-cerf-on-50-years-of-the-internet-we-still-have-a-lot-of-work-to-do 

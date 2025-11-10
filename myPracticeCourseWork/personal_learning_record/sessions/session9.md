@@ -41,6 +41,14 @@ Microchips, this as inveted by Jack Kilby and Robert Noyce within 1959, overseen
 CERN was a project udnertaken by numerous of countries that would allow them to explore matter
 
 HTML and HTTP, HTTP is the emchnaism where you put in the http and reference a page that you searched up, HTML is a way to describe a document
+
+Indexing was a way to solve finding information on the internet, AltaVista was the webpage used only for a year until Google came in within 1995 in Stanford University. Google is created through a page ranked system meaning the top result is the most related to the search question
+
+Asymmetric Encryption, this is an encryption where 'two different keys, a public key and a private key to encrypt and decrypt', overseen at, (Badman and Kosinski 2024)
+
+The encryption is done through complex algorithms and mathematical sets
+
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -56,3 +64,5 @@ ANON., 2022. File:Internet map 4096.png - Wikimedia Commons [viewed 10 November 
 ANON., 2024. Service Not Allowed Available from: https://cloud.google.com/transform/vint-cerf-on-50-years-of-the-internet-we-still-have-a-lot-of-work-to-do 
 
 BELLIS, M., 2009. Who Invented the Microchip? Available from: https://www.thoughtco.com/what-is-a-microchip-1991410 
+
+BADMAN, A. and M. KOSINSKI, 2024. What is Asymmetric Encryption? | IBM Available from: https://www.ibm.com/think/topics/asymmetric-encryption 

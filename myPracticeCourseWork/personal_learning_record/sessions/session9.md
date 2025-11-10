@@ -7,8 +7,6 @@
 
 History of the Internet 
 
-The cloud
-
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
@@ -48,6 +46,9 @@ Asymmetric Encryption, this is an encryption where 'two different keys, a public
 
 The encryption is done through complex algorithms and mathematical sets
 
+Quantumn computers can decode very quickly leading to current innovative processing to make code that quantumn computers cant read
+
+Data centers are the thing that is powering everything which is also called the cloud 
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*

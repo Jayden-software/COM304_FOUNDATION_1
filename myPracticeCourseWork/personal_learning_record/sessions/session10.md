@@ -2,9 +2,14 @@
 
 # Session 10
 
-The cloud with Azure
+
 ## Topics covered
 *What topics were covered in this session*
+
+The cloud with Azure 
+
+## Personal Notes and research following this session
+*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
 <img width="785" height="436" alt="image" src="https://github.com/user-attachments/assets/b30bd702-abc9-4154-81e5-9e38beb3ff04" />
 
@@ -22,14 +27,10 @@ Four main cloud properties,
 
 There are three main data centres of which are Microsoft, Google, and Amazon web services
 
-
-## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
-
-
-
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
+
+<img width="866" height="588" alt="image" src="https://github.com/user-attachments/assets/fe48aa77-8949-4e30-85fc-da79f760ccaf" />
 
 
 

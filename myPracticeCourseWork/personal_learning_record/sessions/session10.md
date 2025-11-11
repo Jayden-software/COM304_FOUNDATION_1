@@ -32,6 +32,7 @@ There are three main data centres of which are Microsoft, Google, and Amazon web
 
 <img width="866" height="588" alt="image" src="https://github.com/user-attachments/assets/fe48aa77-8949-4e30-85fc-da79f760ccaf" />
 
+<img width="1172" height="601" alt="image" src="https://github.com/user-attachments/assets/43e419e0-ef48-4c24-b84e-3891b1109f0a" />
 
 
 ## Summary of learning

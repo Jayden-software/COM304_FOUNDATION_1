@@ -16,6 +16,9 @@ Four main cloud properties,
 
 -Measurable service, this is where resource usage is measured 
 
+-Pooling of resources, this is shared between all consumers in relation to demand
+
+-Resource elasticity, this is the ability to convey allocated resources for specific needs
 
 There are three main data centres of which are Microsoft, Google, and Amazon web services
 

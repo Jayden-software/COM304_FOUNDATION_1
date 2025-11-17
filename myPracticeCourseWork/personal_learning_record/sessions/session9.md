@@ -10,9 +10,9 @@ History of the Internet
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
-The map of the internet
-
 <img width="583" height="586" alt="{62A00AC8-4779-4355-A890-2EFFDD345C47}" src="https://github.com/user-attachments/assets/1c4f968a-223f-49a6-8d3c-f503f15cc4bc" />
+
+Figure 1, The map of the internet 
 
 Victorian internet, it works through morse code between network stations
 
@@ -50,6 +50,9 @@ Quantumn computers can decode very quickly leading to current innovative process
 
 Data centers are the thing that is powering everything which is also called the cloud 
 
+<img width="872" height="278" alt="image" src="https://github.com/user-attachments/assets/78531c35-db33-4e1f-a5ed-06e8383940ed" />
+
+Figure 2, Evloution of the Internet, overseen at, (Seitz 2024) 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -69,3 +72,5 @@ ANON., 2024. Service Not Allowed Available from: https://cloud.google.com/transf
 BELLIS, M., 2009. Who Invented the Microchip? Available from: https://www.thoughtco.com/what-is-a-microchip-1991410 
 
 BADMAN, A. and M. KOSINSKI, 2024. What is Asymmetric Encryption? | IBM Available from: https://www.ibm.com/think/topics/asymmetric-encryption 
+
+SEITZ, L., 2024. How We’re Online: The Science Behind the Internet Available from: https://www.broadbandsearch.net/blog/how-does-the-internet-work 

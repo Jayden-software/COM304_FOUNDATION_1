@@ -25,3 +25,5 @@ This is where i built and developed an interest within technology of wondering h
 
 Moreover, within this module i would like to specifically learn how processors actually work and what is inside of them including how RAM works. Furthermore, developing and broadening my general knowledge of computaional processes. In addition, I would like to know how data is transferred through computers and learning the basic fundamentals of any programming language.
 
+In addition I have achieved a distinction in Level 3 business and during this I became proficient within Microsoft 365 specifically within excel through my Market Research module, including standard deviation in which increased my mathematical capabilities
+

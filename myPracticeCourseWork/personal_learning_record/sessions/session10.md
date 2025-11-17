@@ -13,6 +13,8 @@ The cloud with Azure
 
 <img width="785" height="436" alt="image" src="https://github.com/user-attachments/assets/b30bd702-abc9-4154-81e5-9e38beb3ff04" />
 
+Figure 1 
+
 (Frédéric Prud'homme 2023) 
 
 Four main cloud properties, 
@@ -43,6 +45,11 @@ Platform as a service (PAAS), this controls different software resources for thi
 
 Software as a service (SAAS), it conveys a 'full application stack as a service that customers can access and use'. overseen at, (Google Cloud 2024) 
 
+
+<img width="717" height="361" alt="image" src="https://github.com/user-attachments/assets/4eefe557-5b5c-402a-8bfc-d93bcd52e399" />
+
+Figure 2 Types of Deployment Models, overseen at, (Malhotra 2024) 
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -63,3 +70,5 @@ FRÉDÉRIC PRUD'HOMME, 2023. What is the Cloud? Definition and explanations | Qi
 MICROSOFT, n.d. What is the Cloud - Definition | Microsoft Azure Available from: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud 
 
 GOOGLE CLOUD, 2024. What are the different types of cloud computing? Available from: https://cloud.google.com/discover/types-of-cloud-computing 
+
+MALHOTRA, R., 2024. Demystifying Cloud Computing: The Ultimate Guide to Understanding the Cloud (1/n) [viewed 17 November 2025]. Available from: https://medium.com/@ronitmalhotraofficial/demystifying-cloud-computing-the-ultimate-guide-to-understanding-the-cloud-1-n-475d598288c8 

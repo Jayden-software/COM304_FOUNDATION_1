@@ -58,6 +58,8 @@ Data centers are the thing that is powering everything which is also called the 
 ## Summary of learning
 *What did you learn through these exercises*
 
+Within this session I understood and learnt the internet history, the theories that apply to logic for programming which have been discovered in the past. Innovative ideas that were made specifically by the US government.
+
 References
 
 ANON., 2022. File:Internet map 4096.png - Wikimedia Commons [viewed 10 November 2025]. Available from: https://commons.wikimedia.org/wiki/File:Internet_map_4096.png 

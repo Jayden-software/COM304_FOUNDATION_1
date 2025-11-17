@@ -73,7 +73,7 @@ This was a written summary of seesion 1 as a breif overview of what was conveyed
     <td>
       <ol>
         <li>idea</li> Securing Sensitive Information as they must follow a robust scheme to ensure that there is minmal data leakage, overeen at, (Anon. n.d.) 
-        <li>idea</li> Overall essence of givernment policies over data
+        <li>idea</li> Overall essence of government policies over data
         <li>idea</li> International regulations as any geopolitical issue could cause disruption of any data that is flown through
       </ol> 
     </td>

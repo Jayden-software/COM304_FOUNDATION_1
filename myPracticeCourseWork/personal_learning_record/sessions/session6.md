@@ -51,6 +51,8 @@ It can run some cloud MQTT, and AMQP
 
 Overseen at, (Impulse Embedded 2019) 
 
+Node RED is amalgamated through using 'blocks of Javascript based software code, called nodes', overseen at, (Impulse Embedded 2019). Moreover this amalgamation reduces risk for software development exposure, It can be run on MacOS, Windows, and Linux in which makes Node RED very versatile
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

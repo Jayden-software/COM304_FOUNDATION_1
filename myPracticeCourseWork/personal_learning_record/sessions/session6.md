@@ -38,12 +38,12 @@ Finally, the workspace is practically the headquarter as it is the area 'where f
 
 <img width="570" height="759" alt="image" src="https://github.com/user-attachments/assets/b7a7f5fa-07dd-4176-bde8-d9d1d9550976" />
 
-Within this excercise it was to complete three seperate circuits that would cirulate a traffic lighjt system ensuring that there is enough space betweeen each circuit to change colour safely
+Within this excercise it was to complete three seperate circuits that would cirulate a traffic light system ensuring that there is enough space betweeen each circuit to change colour safely
 
 ## Summary of learning
 *What did you learn through these exercises*
 
-Through the exercisen and session I learnt hyow to use and download Node RED on a raspberry Pi and also how to install and use the eduroam program
+Through the exercise I learnt how to use and download Node RED on a raspberry Pi, how to use and read the light switching through Node-RED 
 
 References
 

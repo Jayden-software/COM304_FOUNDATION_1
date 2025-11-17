@@ -27,6 +27,21 @@ Four main cloud properties,
 
 There are three main data centres of which are Microsoft, Google, and Amazon web services
 
+Types of clouds
+
+Personal clouds, this is where there are solutions in which are privatised that will allow you to 'store, access, and manage your data remotely over the internet', overseen at, (Microsoft n.d.) 
+
+Commercial clouds, this is where the cloud is offered to a company or business. Furthermore, 'they provide scalable and on-demand access to computing resources, storage, and applications over the internet', overseen at, (Microsoft n.d.)  
+
+Public clouds demonstrates and deliver a variety of resources and services online in which are all there for the publci to access
+
+Types of cloud services
+
+Infrastructure as a service also known as (IAAS), this conveys on-demand infrastructure resources, these are things such as storage or virtualisation, overseen at, (Google Cloud 2024) 
+
+Platform as a service (PAAS), this controls different software resources for things such as devloping and testing, and managing cloud applications
+
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -43,3 +58,7 @@ Through this session I learnt how to create a cloud, this was done through a vir
 References
 
 FRÉDÉRIC PRUD'HOMME, 2023. What is the Cloud? Definition and explanations | Qim info Available from: https://www.qiminfo.ch/en/what-is-the-cloud-definition-and-explanations/ 
+
+MICROSOFT, n.d. What is the Cloud - Definition | Microsoft Azure Available from: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud 
+
+GOOGLE CLOUD, 2024. What are the different types of cloud computing? Available from: https://cloud.google.com/discover/types-of-cloud-computing 

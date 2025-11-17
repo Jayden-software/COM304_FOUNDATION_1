@@ -12,7 +12,7 @@ History of the Internet
 
 <img width="583" height="586" alt="{62A00AC8-4779-4355-A890-2EFFDD345C47}" src="https://github.com/user-attachments/assets/1c4f968a-223f-49a6-8d3c-f503f15cc4bc" />
 
-Figure 1, The map of the internet 
+Figure 1, The map of the internet, overseen at, (Anon. 2022) 
 
 Victorian internet, it works through morse code between network stations
 

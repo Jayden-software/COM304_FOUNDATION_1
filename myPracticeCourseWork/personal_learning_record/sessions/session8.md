@@ -72,6 +72,7 @@ Overseen at, (Shivangi Vatsal 2024)
 ## Summary of learning
 *What did you learn through these exercises*
 
+Within this session I learnt how the network layer works, the different connections through the internet specifically the home WIFI such as Ethernet in which is implemented through the link layer. Moreover, hopw packets are turned into IP addresses to connect to the internet
 
 References
 

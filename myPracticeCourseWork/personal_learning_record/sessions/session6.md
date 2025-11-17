@@ -33,6 +33,24 @@ The subflow is the total collection of nodes taht can then be used in a sinmgle 
 
 Finally, the workspace is practically the headquarter as it is the area 'where flows are developed by dragging nodes from the palette and wiring them together', conveyed at, (Anon. n.d.)  
 
+<img width="907" height="526" alt="image" src="https://github.com/user-attachments/assets/59066752-2bc4-45a0-a502-34762b02a4f4" />
+
+Figure 1, visualisation of Node RED. Overseen at, (Impulse Embedded 2019) 
+
+The key features of Node RED
+
+It supports browser based flow editing
+
+It can be run locally
+
+The library is a on a continous growth pattern
+
+The user face is simplified for inexperienced users 
+
+It can run some cloud MQTT, and AMQP
+
+Overseen at, (Impulse Embedded 2019) 
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -48,3 +66,5 @@ Through the exercise I learnt how to use and download Node RED on a raspberry Pi
 References
 
 ANON., n.d. Node-RED Concepts : Node-RED Available from: https://nodered.org/docs/user-guide/concepts 
+
+IMPULSE EMBEDDED, 2019. What is Node-RED? | Impulse Embedded Available from: https://www.impulse-embedded.co.uk/news/what-is-node-red 

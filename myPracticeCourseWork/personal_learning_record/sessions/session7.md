@@ -47,8 +47,6 @@ The home folder contains specific users such as admin in which will be held in t
 
 If your run the ls command it will list all files with the directory and see the access permissions for the files
 
-Within any operatintg systems in order for it to be successful and run it needs to have the corect data structures, this process within a computer is called the boot process
-
 Different files are hidden from certain users
 
 ## Exercises and results
@@ -59,6 +57,7 @@ Different files are hidden from certain users
 ## Summary of learning
 *What did you learn through these exercises*
 
+Within this session I learnt the structure of an operating system, how it conveys compute processes to the computer. Furtermore, within any operatintg systems in order for it to be successful and run it needs to have the corect data structures, this process within a computer is called the boot process.
 
 References
 

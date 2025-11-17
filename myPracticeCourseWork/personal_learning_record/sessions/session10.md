@@ -38,6 +38,8 @@ There are three main data centres of which are Microsoft, Google, and Amazon web
 ## Summary of learning
 *What did you learn through these exercises*
 
+Through this session I learnt how to create a cloud, this was done through Micorsoft Azure. 
+
 References
 
 FRÉDÉRIC PRUD'HOMME, 2023. What is the Cloud? Definition and explanations | Qim info Available from: https://www.qiminfo.ch/en/what-is-the-cloud-definition-and-explanations/ 

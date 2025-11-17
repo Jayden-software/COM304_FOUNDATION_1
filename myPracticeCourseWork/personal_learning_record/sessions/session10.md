@@ -38,7 +38,7 @@ There are three main data centres of which are Microsoft, Google, and Amazon web
 ## Summary of learning
 *What did you learn through these exercises*
 
-Through this session I learnt how to create a cloud, this was done through Micorsoft Azure. 
+Through this session I learnt how to create a cloud, this was done through a virtual machine using Microsoft Azure. Moreover, I learnt how to successfully deploy this and the processes of which is needed to do this
 
 References
 

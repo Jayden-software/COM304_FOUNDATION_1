@@ -5,7 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-Within this proposal the council is asking to simplify its operations through the use of Artificial Intelligence, from what the proposal is asking im guessing that the operations is in a generalised manner such as the daily activities and tasks the council conveys and does. Moreover, you could implement this through numerous of AI applications such as Copilot to summarise reports, ChatGPT to simplify code, automate certain tasks that are common and repeated throughout multiple days.In summary, what this means is to designated an AI application to reduce task timings that it takes to complete through automation.
+Within this proposal the council is asking to simplify its operations through the use of Artificial Intelligence, from what the proposal is asking im guessing that the operations is in a generalised manner such as the daily activities and tasks the council conveys and does. Moreover, you could implement this through numerous of AI applications such as Copilot to summarise reports, ChatGPT to simplify code, automate certain tasks that are common and repeated throughout multiple days. In summary, what this means is to designated an AI application to reduce task timings that it takes to complete through automation.
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 

@@ -41,6 +41,7 @@ Infrastructure as a service also known as (IAAS), this conveys on-demand infrast
 
 Platform as a service (PAAS), this controls different software resources for things such as devloping and testing, and managing cloud applications
 
+Software as a service (SAAS), it conveys a 'full application stack as a service that customers can access and use'. overseen at, (Google Cloud 2024) 
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*

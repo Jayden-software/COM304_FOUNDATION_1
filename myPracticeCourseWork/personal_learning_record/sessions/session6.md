@@ -43,7 +43,7 @@ Within this excercise it was to complete three seperate circuits that would ciru
 ## Summary of learning
 *What did you learn through these exercises*
 
-Through the exercisen and session I learnt hyow to use and download Node RED on a raspberry Pi and also how to iinstall and use the eduroam program
+Through the exercisen and session I learnt hyow to use and download Node RED on a raspberry Pi and also how to install and use the eduroam program
 
 References
 

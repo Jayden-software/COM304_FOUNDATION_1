@@ -5,7 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-Within this proposal it is asking to use raspberry Pi's as IoT devices for counting people in and out of the libraries and musuems, this means to setup and install a linux OS onto the rapsberry pi and then connect something to the pins, you could use a prgramming langauge such as Python to convey data that has been sensored to a designated server. To implement this you could connect the GIPo pins (Gneral Input and Output#) 
+Within this proposal it is asking to use raspberry Pi's as IoT devices for counting people in and out of the libraries and musuems, this means to setup and install a linux OS onto the rapsberry pi and then connect something to the pins, you could use a prgramming langauge such as Python to convey data that has been sensored to a designated server. To implement this you could connect the GIPo pins (General Input and Output) 
 
 <img width="318" height="701" alt="image" src="https://github.com/user-attachments/assets/5f08283e-0af3-49e4-849f-a073e0d726c0" />
 

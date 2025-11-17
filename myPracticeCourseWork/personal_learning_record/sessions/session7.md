@@ -27,6 +27,8 @@ A fundamental understanding of how an operating system works
 
 <img width="706" height="566" alt="image" src="https://github.com/user-attachments/assets/b0db0e93-478e-4a76-9cf7-2c2f1d6e1286" />
 
+Figure 1 
+
 Processes are privliges, operating systems protects processors from crashing
 
 The system clock is teh most important interrupt, it jumps around multiple interrupts simultaneously
@@ -49,6 +51,10 @@ If your run the ls command it will list all files with the directory and see the
 
 Different files are hidden from certain users
 
+<img width="697" height="374" alt="image" src="https://github.com/user-attachments/assets/b4bdea78-5c1d-4310-a2b2-8feb264aae22" />
+
+Figure 2, Operating system architecture, overseen at, (Anon. n.d.) 
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
@@ -62,3 +68,5 @@ Within this session I learnt the structure of an operating system, how it convey
 References
 
 ANON., n.d. Figure 1: A basic working of an Operating System Available from: https://www.researchgate.net/figure/A-basic-working-of-an-Operating-System_fig1_341001566 
+
+ANON., n.d. Understanding Operating System Architecture: Key Components and Features Available from: https://merwin.hashnode.dev/understanding-operating-system-architecture-key-components-and-features 

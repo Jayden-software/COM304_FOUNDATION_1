@@ -20,7 +20,7 @@ The memory bus connect all 3 of the I/O, Memory (RAM), and CPU.
 
 <img width="928" height="467" alt="image" src="https://github.com/user-attachments/assets/bbdc9980-5457-43f2-95ee-3f415828e5cd" />
 
-Figure 1. Number system overseen at, (Anon. 2019) 
+Figure 1. Number system. overseen at, (Anon. 2019) 
 
 An 8 bit binary equates to 256. A Hexadecimal digit will go from 0 to f, f represents (15)
 
@@ -41,12 +41,16 @@ AND Gate, example - 0,0 = 0, 0,1 =0.
 Sample 4 bit adder, 2 different inputs, sum and carry. When you have 3 lines one represents the carry. 4 bits in binary represent 1,2,4,8. 
 
 Flip flops, every time a clock is pulsed, then it will flip the Q pulses. Flip flops can be used to create registers, and half adders.
+
+<img width="238" height="306" alt="image" src="https://github.com/user-attachments/assets/1dcf840d-6760-421b-b3ca-adb57013248c" />
+
+Figure 2. Memory bus within a 16 bit computer. overseen at, (GeeksforGeeks 2020) 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
 The exercise was to enable a successul download of linux os installed onto the rapsberry pi from a personal laptop, then to dedicated a hdmi passing the the machine into the main PC monitor. In addition an extra task was to successfully connect WIFI to the machine. All results were successfully completed.
 
-Other exercises demonstrated was playing the HEX game and Binary game. Results included acheiving level 5 and 19000 points. 
+Other exercises demonstrated was playing the HEX game and Binary game.
 ## Summary of learning
 *What did you learn through these exercises*
 
@@ -57,3 +61,5 @@ References
 ANON., 2019. Binary Number System | Why Computer Use Binary Number , logic Gates Available from: https://www.learncomputerscienceonline.com/binary-number-system/
 
 “What Is a Raspberry Pi?” Opensource.com, 2012, opensource.com/resources/raspberry-pi. 
+
+GEEKSFORGEEKS, 2020. Common Bus System [viewed 24 November 2025]. Available from: https://www.geeksforgeeks.org/computer-organization-architecture/common-bus-system/ 

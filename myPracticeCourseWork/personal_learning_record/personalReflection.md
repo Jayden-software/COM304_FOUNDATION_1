@@ -13,5 +13,5 @@
 
 ---
 
+  In conlcusion, from the sessions and personal research I have gathered I have specifically grasped the fundamentals of computing this can be from how the cloud works to the history of computers to learning binary and the mathematical side of computing. Moreover, new things that I have learnt is different types of programming langauges such as Java, python, how 
 
-TBD

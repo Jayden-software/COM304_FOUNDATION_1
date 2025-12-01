@@ -44,6 +44,8 @@ Load register 4 into 1
 bl means branch
 lr means link register
 
+An interrupt is a 'signal emmitted by a device attached to a computer or from a program within the computer. It requires the OS to stop and figure out what to do next'. Overseen at, (Awati 2022) 
+
 Interrupts in summary is where a keybaord interrupts the process of whatever the CPU is doing, it enabled through an interrupts controller
 
 There is a clock every time it clocks there will be an interrupt
@@ -79,3 +81,5 @@ Through this excercise I learnt how to change the seven elements upon numerical 
 References
 
 ANON., n.d. Subroutines and Stacks Available from: https://www.scs.stanford.edu/~zyedidia/docs/arm/extras/annot/subroutines.hohl-arm-asm.pdf 
+
+AWATI, R., 2022. What is interrupt in computing? Available from: https://www.techtarget.com/whatis/definition/interrupt 

@@ -11,6 +11,8 @@ Raspberry PI (Node red)
 
 Introduction to ARM and C
 
+Open Source and Closed Source
+
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 

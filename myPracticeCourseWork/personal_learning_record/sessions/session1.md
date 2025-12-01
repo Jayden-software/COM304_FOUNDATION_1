@@ -9,7 +9,7 @@
  
  -Notable historic figures (Alen Turing, Ada Lovelace, Charles Babbage)
 
- -Thoeretical foundation of hardware/components (CPU, Memnory, Peripherals)
+ -Thoeretical foundation of hardware/components (CPU, Memory, Peripherals)
 
  -Different types of computers (Analogue, Digital,)
  

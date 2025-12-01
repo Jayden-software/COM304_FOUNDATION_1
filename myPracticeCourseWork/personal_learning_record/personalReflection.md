@@ -17,5 +17,5 @@
 
 The next thing I will need to do to consolidate my knowledge would be to teach my peers principles that they may not understand, staying up to date with technology to refine my knowledge and to build upon my new current foundational knowledge. This can be done through reading newsletters on linkedin from companies such as Microsoft, AMD, and Nvidia. Furthermore, I can read articles from NewScientist as this has a variety of infomration ranging from companies current technology stands such as developing AI chips to space and quantum computing.
 
-Correlating back to my prior experience I mentioned that I wanted to learn more about how a CPU works and this was covered within
+Correlating back to my prior experience I mentioned that I wanted to learn more about how a CPU works and this was covered within session 1, I learnt that cpu's use a binary systems which includes 1 and 0s that conveys a true and false state
 

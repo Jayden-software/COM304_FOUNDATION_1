@@ -5,7 +5,7 @@
 | Course and Year | COM304 Foundation Computing 2025 | 
 | Student Name | Jayden Nurse |
 | Student Number | Q103007845 |
-| Student Email | 0nursj@solent.ac.uk |
+| Student Email | 0nursj45@solent.ac.uk |
 | Github Account Username |Jayden-software|
 | Github Submission Repository URL | |
 

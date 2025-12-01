@@ -36,6 +36,12 @@ Closed source, Microsoft, Windows, these companies can modify it but the consume
 
 Open source, GitLab, and Odoo, this means that it is the definitive opposite of closed source meaning it can be modified freely.
 
+Benefits and disadvantages of open source and closed source
+
+It is cost effective due to not needing a license meaning there is no extra fees to pay for, versatility due to anyone being able to modify it. However, there are disadvantages such as lack of security and concerns, and lack of support due to assistance not being available like other closed sources. Whereas, closed sources advantages include Support being more available and ready, better security measures. The disadvantages include the lack of collaboration that open source has to offer leading to a limited customisations. Overseen at, (Anon. 2024b) 
+
+
+
 Node-RED, a low level development tool for programming.
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
@@ -50,3 +56,9 @@ Using a simple program and turning it into a machine code that will run on a CPU
 How to use C+ to convert it to machine code for the CPU to then read.
 
 The difference between Closed and Open sources. Compiled and Interpreted languages.
+
+References
+
+ANON., 2024b. Open Source vs Closed Source Software: Weighing the Benefits Available from: https://www.pingcap.com/article/open-source-vs-closed-source-software-benefits/
+
+LOTZ, M., 2018. Waterfall vs. Agile: Which Methodology Is Right for Your Project? Available from: https://www.seguetech.com/waterfall-vs-agile-methodology/ 

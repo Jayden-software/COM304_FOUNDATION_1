@@ -9,7 +9,7 @@ Java script
 
 C code
 
-subroutines and stacks
+Subroutines and stacks
 
 Interrupts
 

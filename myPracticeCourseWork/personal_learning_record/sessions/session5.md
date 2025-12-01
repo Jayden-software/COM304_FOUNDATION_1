@@ -28,6 +28,12 @@ ARM chips has three registers that are called stack pointer, link register, and 
 
 Program counter points to the next instruction to the memeory
 
+<img width="515" height="242" alt="image" src="https://github.com/user-attachments/assets/3a10f58e-c311-4a7b-8109-bf4aba8f6bf1" />
+
+Figure 1 (Anon. n.d.) - Sub routine and stacks
+
+Ths stack has two specfic functuins in which are PUSH and POP in which one adds onto the stack and one removes something from the stack
+
 Link register is going to point to the next instruction in the previous sub routine and that means you can jump back to the program counter, in summary it acts as a save
 
 Stack pointer is a sophisticated way to stack the routine and take it back to the CPU register
@@ -69,3 +75,7 @@ Each of the value corresponds to different value
 *What did you learn through these exercises*
 
 Through this excercise I learnt how to change the seven elements upon numerical value, replacing 0000000, to 123456.
+
+References
+
+ANON., n.d. Subroutines and Stacks Available from: https://www.scs.stanford.edu/~zyedidia/docs/arm/extras/annot/subroutines.hohl-arm-asm.pdf 

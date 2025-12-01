@@ -20,6 +20,10 @@ Agile development method, this methodology helps intiate different flexibilitys 
 
 Waterfall method, within this methodology every designated phase must be implemented and complete before you can move over to the next stage.
 
+<img width="640" height="470" alt="image" src="https://github.com/user-attachments/assets/cbb321aa-4bff-44d3-a1e1-a71956a9aa42" />
+
+Figure 1, (Lotz 2018) - Waterfall vs Agile Methodology
+
 Changing the pins within a raspberry pi as it can change from 3 volts to 0 volts.
 
 High level languages are programming languages such as Java, C+, and Python. Interpreted languages conveys the input language and then translates it on the fly.
